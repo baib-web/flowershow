@@ -1,0 +1,7 @@
+.DS_Store
+markdown.db
+node_modules/
+.next/
+out/
+.obsidian/
+.markdowndb/
