@@ -32,19 +32,3 @@ showToc: true
 
 ---
 ## <center>🛑  🚧—END—🚧  🛑</center>
-
-<script src="https://giscus.app/client.js"
-        data-repo="baib-web/flowershow"
-        data-repo-id="R_kgDOK28Jug"
-        data-category-id="DIC_kwDOK28Jus4CgX6d"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="1"
-        data-input-position="top"
-        data-theme="transparent_dark"
-        data-lang="zh-CN"
-        data-loading="lazy"
-        crossorigin="anonymous"
-        async>
-</script>
