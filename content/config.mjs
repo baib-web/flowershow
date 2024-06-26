@@ -33,7 +33,7 @@ const config = {
   analytics: "G-K0MZ23W0K9",
   navLinks: [
     { href: "/blog", name: "Blog" },
-  },
+  ],
 };
 
 export default config;
