@@ -17,7 +17,7 @@ const config = {
   // 是否显示侧边栏
   showSidebar: 'false',
   // 显示评论
-  showComments: false,
+  showComments: ture,
   comments: {
     provider: "giscus", // supported providers: giscus, utterances, disqus
     config: {
