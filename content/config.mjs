@@ -30,7 +30,9 @@ const config = {
       categoryId: process.env.NEXT_PUBLIC_GISCUS_CATEGORY_ID,
     },
   },
+  //谷歌网站分析
   analytics: "G-K0MZ23W0K9",
+  //导航栏链接
   navLinks: [
     { href: "/blog", name: "Blog" },
   ],
