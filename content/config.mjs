@@ -36,6 +36,14 @@ const config = {
   navLinks: [
     { href: "/blog", name: "Blog" },
   ],
+  search: {
+    provider: "algolia",
+    config: {
+      appId: process.env.NEXT_PUBLIC_DOCSEARCH_APP_ID,
+      apiKey: process.env.NEXT_PUBLIC_DOCSEARCH_API_KEY,
+      indexName: process.env.NEXT_PUBLIC_DOCSEARCH_INDEX_NAME,
+    },
+  },
 };
 
 export default config;
