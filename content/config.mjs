@@ -28,7 +28,6 @@ const config = {
     },
   },
   analytics: "G-K0MZ23W0K9",
-  },
 };
 
 export default config;
