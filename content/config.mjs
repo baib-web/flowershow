@@ -12,7 +12,7 @@ const config = {
   domain: "https://flowershow.youzhidanbairu.eu.org",
   //公开编辑链接
   editLinkRoot:
-    "https://github.com/datopian/flowershow-app/edit/main",
+    "https://github.com/baib-web/flowershow/tree/main/content",
   // 是否显示编辑链接
   showEditLink: 'true',
   // 是否显示目录
@@ -31,6 +31,9 @@ const config = {
     },
   },
   analytics: "G-K0MZ23W0K9",
+  navLinks: [
+    { href: "/blog", name: "Blog" },
+  },
 };
 
 export default config;
