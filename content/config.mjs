@@ -25,9 +25,6 @@ const config = {
       repositoryId: process.env.NEXT_PUBLIC_GISCUS_REPOSITORY_ID,
       category: process.env.NEXT_PUBLIC_GISCUS_CATEGORY,
       categoryId: process.env.NEXT_PUBLIC_GISCUS_CATEGORY_ID,
-    },
-  },  
-  analytics: "G-K0MZ23W0K9",
 };
 
 export default config;
