@@ -10,8 +10,11 @@ const config = {
   //logo: "/images/logo.svg",
   // 域名
   domain: "https://flowershow.youzhidanbairu.eu.org",
+  //公开编辑链接
+  editLinkRoot:
+    "https://github.com/datopian/flowershow-app/edit/main",
   // 是否显示编辑链接
-  showEditLink: 'false',
+  showEditLink: 'true',
   // 是否显示目录
   showToc: 'false',
   // 是否显示侧边栏
