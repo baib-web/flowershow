@@ -12,7 +12,7 @@ const config = {
   domain: "https://flowershow.youzhidanbairu.eu.org",
   //公开编辑链接
   editLinkRoot:
-    "https://github.com/baib-web/flowershow/tree/main/content",
+    "https://github.com/baib-web/flowershow/tree/main",
   // 是否显示编辑链接
   showEditLink: 'true',
   // 是否显示目录
