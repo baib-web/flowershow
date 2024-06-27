@@ -10,6 +10,9 @@ Hello World!
 <div className="text-yellow-500">
 Hello World!
 </div>
+<div className="text-green-500"> 
+Hello World! 
+</div>
 <div className="text-teal-500"> 
 Hello World! 
 </div>
