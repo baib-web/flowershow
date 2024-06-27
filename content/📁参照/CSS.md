@@ -16,4 +16,6 @@ Hello World!
 <div className="text-teal-500"> 
 Hello World! 
 </div>
-
+<div className="text-orange-500">
+Hello World!
+</div>
