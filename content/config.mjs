@@ -1,11 +1,11 @@
 // config.js
 const config = {
   // 名称
-  title: "Flowershow",
+  title: "Baib的数字花园",
   // 描述
-  description: "Publish your digital garden",
+  description: "技术分享和日常唠嗑",
   // 作者
-  author: "Flowershow",
+  author: "Baib",
   // 标识
   //logo: "/images/logo.svg",
   // 域名
