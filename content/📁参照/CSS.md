@@ -1,6 +1,4 @@
-<div className="text-red-500">
-Hello World!
-</div>
+<div className="text-red-500">Hello World!</div>
 <div className="text-pink-500">
 Hello World!
 </div>
