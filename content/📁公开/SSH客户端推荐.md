@@ -7,6 +7,7 @@
 现代软件开发和系统管理工作中，安全地远程访问服务器是必不可少的。SSH（Secure Shell）协议作为一种安全可靠的通信协议，成为了远程管理服务器的首选。为了更好地利用SSH，选择一款优秀的SSH客户端至关重要。本文将推荐几款常用的SSH客户端，并分析其优缺点，帮助您找到最适合自己的工具。
 
 # Termius 
+截图
 
 **平台：** Windows, macOS, Linux, iOS, Android
 
@@ -18,7 +19,10 @@
 
 **缺点：**
 * **部分功能需要付费：** Termius 的免费版功能有限，需要付费才能解锁更多高级功能，如跨设备同步、团队协作等。
+资源
+- [网站](https://termius.com/) - [GitHub](https://github.com/termius/termius)
 # FinalShell
+截图
 **平台：** Windows, macOS, Linux
 
 **优点：**
@@ -32,23 +36,28 @@
 
 - 收费软件：FinalShell 为商业软件，需要付费才能使用。
 - 界面略显复杂：对于新手用户来说，界面可能稍显复杂，需要一定学习成本。
+资源
+[官网](https://www.hostbuf.com/)
 # WindTerm
 **截图**
 
 **平台：** Windows
 
 **优点**：
-    1. **性能优越**：WindTerm 基于 C 语言开发，启动速度快，内存占用较低，相较于其他终端工具，性能表现更好。
-    2. **跨平台支持**：WindTerm 可在 Windows、macOS 和 Linux 操作系统上运行，适用于各种远程登录和操作系统管理需求。
-    3. **多协议支持**：支持 SSH v2、Telnet、Raw Tcp、串行、Shell 等多种协议，满足不同场景的需求。
-    4. **文件传输和管理**：集成了 sftp 和 scp 客户端，支持文件上传、下载、删除、重命名等操作。
-    5. **历史命令记录**：右下角的大纲区域展示会话中执行过的历史命令，方便再次执行。
+- **性能优越**：WindTerm 基于 C 语言开发，启动速度快，内存占用较低，相较于其他终端工具，性能表现更好。
+- **跨平台支持**：WindTerm 可在 Windows、macOS 和 Linux 操作系统上运行，适用于各种远程登录和操作系统管理需求。
+- **多协议支持**：支持 SSH v2、Telnet、Raw Tcp、串行、Shell 等多种协议，满足不同场景的需求。
+- **文件传输和管理**：集成了 sftp 和 scp 客户端，支持文件上传、下载、删除、重命名等操作。
+- **历史命令记录**：右下角的大纲区域展示会话中执行过的历史命令，方便再次执行。
 
 **缺点**：
-    1. **界面设置不够方便**：一些选项需要手动修改配置文件，缺少直接的窗口设置功能。
-    2. **多语言支持有待完善**：虽然支持 cmd、PowerShell、Linux bash、zsh 等，但作者透露多语言支持将在下个版本上线。
+- **界面设置不够方便**：一些选项需要手动修改配置文件，缺少直接的窗口设置功能。
+- **多语言支持有待完善**：虽然支持 cmd、PowerShell、Linux bash、zsh 等，但作者透露多语言支持将在下个版本上线。
+- **资源**
 资源
+- [网站](https://windterm.org/) - [GitHub](https://github.com/kingToolbox/WindTerm)
 # ServerCat
+截图
 **平台：** Windows, macOS, Linux
 
 **优点：**
@@ -62,7 +71,10 @@
 
 - 收费软件：ServerCat 为商业软件，需要付费才能使用。
 - 部分功能需要付费：免费版功能有限，需要付费才能解锁更多高级功能，如团队协作、终端录制等。
+资源
+- [网站](https://www.servercat.com/)
 # Tabby
+截图
 **平台：** Windows, macOS, Linux
 
 **优点：**
@@ -76,8 +88,11 @@
 
 - 团队协作功能较弱：Tabby 的团队协作功能相对较弱，不适合需要团队协作的用户。
 - 部分功能仍需完善：Tabby 仍在开发中，部分功能可能尚未完全完善。
+资源
+- [网站](https://tabby.sh/) - [GitHub](https://github.com/Eugeny/tabby)
 
 # Hyper
+截图
 **平台：** Windows, macOS, Linux
 
 **优点：**
@@ -91,7 +106,10 @@
 
 - 功能相对较少：与其他商业 SSH 客户端相比，Hyper 的内置功能相对较少，需要通过安装插件来扩展功能。
 - 稳定性有待提高：Hyper 仍在开发中，稳定性方面可能不如一些成熟的商业 SSH 客户端。
+资源
+- [网站](https://hyper.is/) - [GitHub](https://github.com/zeit/hyper)
 # 安全外壳(SSH)(浏览器插件)
+截图
 **平台：** 浏览器（Chrome、Firefox 等）
 
 **优点：**
@@ -106,20 +124,25 @@
 - 功能有限：与独立的 SSH 客户端相比，浏览器 SSH 插件的功能相对有限，例如不支持端口转发、文件传输等高级功能。
 - 稳定性受限：浏览器 SSH 插件的稳定性受限于浏览器的稳定性，可能会受到浏览器更新或扩展冲突的影响。
 - 安全性担忧：虽然浏览器沙箱机制提供了额外的安全性，但仍存在潜在的安全漏洞，需要谨慎使用。
+资源
+[谷歌插件市场](https://chromewebstore.google.com/detail/%E5%AE%89%E5%85%A8%E5%A4%96%E5%A3%B3-ssh/iodihamcpbpeioajjeobimgagajmlibd?hl=zh-CN&utm_source=ext_sidebar) 
 # NextSSH
+截图
 **平台：** Windows, macOS, Linux
 
 **优点：**
 
-- **免费开源：**NextSSH 是一个免费开源的 SSH 客户端，无需付费即可使用所有功能。
-- **跨平台支持：**NextSSH 支持 Windows、macOS 和 Linux 系统，方便用户在不同平台上使用。
-- **界面简洁：**NextSSH 拥有简洁明了的界面，操作简单易懂，适合新手用户。
-- **功能丰富：**NextSSH 提供了丰富的功能，包括 SSH、Telnet、Rlogin 等多种协议支持，以及文件传输、端口转发、终端录制等实用功能。
+- **免费开源:** NextSSH 是一个免费开源的 SSH 客户端，无需付费即可使用所有功能。
+- **跨平台支持:** NextSSH 支持 Windows、macOS 和 Linux 系统，方便用户在不同平台上使用。
+- **界面简洁:** NextSSH 拥有简洁明了的界面，操作简单易懂，适合新手用户。
+- **功能丰富:** NextSSH 提供了丰富的功能，包括 SSH、Telnet、Rlogin 等多种协议支持，以及文件传输、端口转发、终端录制等实用功能。
 
 **缺点：**
 
-- **团队协作功能较弱：**NextSSH 的团队协作功能相对较弱，不适合需要团队协作的用户。
-- **部分功能仍需完善：**NextSSH 仍在开发中，部分功能可能尚未完全完善。
+- **团队协作功能较弱:** NextSSH 的团队协作功能相对较弱，不适合需要团队协作的用户。
+- **部分功能仍需完善:** NextSSH 仍在开发中，部分功能可能尚未完全完善。
+资源 
+[官网](https://codemutex.com/) [Github](https://github.com/tapiwamla/nextssh)
 
 | [🌸**我的b站主页**🌸](https://space.bilibili.com/181073412?spm_id_from=333.1007.0.0) | [⛩️**我的群组**⛩️](https://flowershow.youzhidanbairu.eu.org/%F0%9F%A6%84%E5%8A%A0%E5%85%A5%E6%88%91%E7%9A%84%E7%BE%A4%E7%BB%84%F0%9F%8C%88) | [⭐**我的卡片**⭐](https://bento.me/aipio) | [🗂️**所有资源**🗂️](https://studentcitruscollege-my.sharepoint.com/:f:/g/personal/leoooksn556_student_citruscollege_edu/Ev_c9YZu5TJFphuoOtMM9ioBH4_fuH7Jha0KBflx4pxNCw?e=ygn9z3) |
 | ------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
