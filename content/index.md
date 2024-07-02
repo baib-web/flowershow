@@ -1,6 +1,7 @@
 ---
 showSidebar: true
 showToc: true
+showComments: false
 ---
 ### <center>这里是我的文章主页  🏠</center>
 
