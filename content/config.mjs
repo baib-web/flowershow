@@ -44,6 +44,14 @@ const config = {
       indexName: process.env.NEXT_PUBLIC_DOCSEARCH_INDEX_NAME,
     },
   },
+  //检索元素和社交预览
+  nextSeo: {
+    twitter: {
+      handle: "@example",
+      site: "https://flowershow.youzhidanbairu.eu.org",
+      cardType: "https://3acf33aa.telegraph-image-bnz.pages.dev/file/fb476c599e3a965cd8a1c.png",
+    },
+  },
 };
 
 export default config;
