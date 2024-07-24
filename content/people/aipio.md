@@ -1,5 +1,5 @@
 ---
 id: aipio
 name: aipio
-avatar: asset/aipio.jpeg
+avatar: /asset/aipio.jpeg
 ---
