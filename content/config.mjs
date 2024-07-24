@@ -7,7 +7,7 @@ const config = {
   // 作者
   author: "Baib",
   // 标识
-  logo: "/images/logo.svg",
+  //logo: "/images/logo.svg",
   // 域名
   domain: "https://flowershow.youzhidanbairu.eu.org",
   //公开编辑链接
