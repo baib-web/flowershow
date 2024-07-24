@@ -1,5 +1,5 @@
 ---
 id: aipio
-name: 稚幼的Baib
-avatar: asset/people/unnamed.jpeg
+name: aipio
+avatar: asset/aipio.jpeg
 ---
