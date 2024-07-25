@@ -1,6 +1,6 @@
 ---
 id: aipio123
 name: aipio321
-avatar: assets/aipio-key.jpeg
+avatar: assets/aipio-key.jpg
 ---
 
