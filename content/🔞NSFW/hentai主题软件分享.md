@@ -1,4 +1,4 @@
-![](https://cdn.jsdelivr.net/gh/baib-web/img/ahegao.jpg)
+![](https://cdn.jsdelivr.net/gh/baib-web/img/DAOKO%20GIRL%20MV.gif)
 
 TachiJ2K及其分支
 ![](https://cdn.jsdelivr.net/gh/baib-web/img/TachiyomiJ2K%E5%9B%BE%E6%A0%87.png)
