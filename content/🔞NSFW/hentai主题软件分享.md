@@ -1,7 +1,8 @@
-![](https://cdn.jsdelivr.net/gh/baib-web/img/DAOKO%20GIRL%20MV.gif)
+<img src="https://cdn.jsdelivr.net/gh/baib-web/img/ahegao.jpg" align = “middle” width="600" />
+![]()
 
 TachiJ2K及其分支
-![](https://cdn.jsdelivr.net/gh/baib-web/img/TachiyomiJ2K%E5%9B%BE%E6%A0%87.png)
+![](https://cdn.jsdelivr.net/gh/baib-web/img/TachiyomiJ2K%E5%9B%BE%E6%A0%87.png#pic_center)
 pica Comic
 ![](https://cdn.jsdelivr.net/gh/baib-web/img/pica%20Comic.png)
 显示Ehviewer及其分支
