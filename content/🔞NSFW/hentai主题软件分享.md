@@ -2,7 +2,7 @@
 ![]()
 
 TachiJ2K及其分支
-![](https://cdn.jsdelivr.net/gh/baib-web/img/TachiyomiJ2K%E5%9B%BE%E6%A0%87.png#pic_center)
+![](https://cdn.jsdelivr.net/gh/baib-web/img/TachiyomiJ2K%E5%9B%BE%E6%A0%87.png)
 pica Comic
 ![](https://cdn.jsdelivr.net/gh/baib-web/img/pica%20Comic.png)
 显示Ehviewer及其分支
