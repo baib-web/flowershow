@@ -1,4 +1,4 @@
-<img src="https://cdn.jsdelivr.net/gh/baib-web/img/ahegao.jpg" align = “middle” width="600" />
+<img src="https://cdn.jsdelivr.net/gh/baib-web/img/ahegao.jpg" align = “middle” />
 ![]()
 
 TachiJ2K及其分支
