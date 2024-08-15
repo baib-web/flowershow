@@ -3,7 +3,7 @@
 ![]()
 
 TachiJ2K及其分支
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/baib-web/img/TachiyomiJ2K%E5%9B%BE%E6%A0%87.png" width="30%"/></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/baib-web/img/TachiyomiJ2K%E5%9B%BE%E6%A0%87.png" width="27%"/></div>
 pica Comic
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/baib-web/img/pica%20Comic.png" width="30%"/></div>
 Ehviewer及其分支
