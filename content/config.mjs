@@ -7,7 +7,7 @@ const config = {
   // 作者
   author: "Baib",
   // 标识
-  logo: "/images/logo.svg",
+  logo: "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Face%20Holding%20Back%20Tears.webp",
   // 域名
   domain: "https://flowershow.youzhidanbairu.eu.org",
   //公开编辑链接
