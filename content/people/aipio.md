@@ -1,5 +1,5 @@
 ---
 name: aipio
-avatar: https://cdn.jsdelivr.net/gh/baib-web/img/%E4%B8%8B%E8%BD%BD.png
+avatar: "../public/assets\r/50c4e212ffac6bee251f7c08c73cc61f.jpg"
 ---
 
