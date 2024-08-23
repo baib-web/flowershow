@@ -27,7 +27,8 @@ showComments: false
 ## <center>📈📢公告&动态 📢📈</center>
 
 
-
+> [!note] 扫码支付👇
+> ![](https://telegraph.youzhidanbairu.eu.org/file/17ce1d210fddd41d867dd.jpg)
 
 
 ---
