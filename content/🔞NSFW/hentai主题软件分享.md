@@ -1,9 +1,27 @@
-# hentai主题软件分享
-<img src="https://cdn.jsdelivr.net/gh/baib-web/img/ahegao.jpg" width="100%" />
-![]()
+# <center>hentai主题软件分享</center>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/baib-web/img/ahegao.jpg" width="60%" /></div>
+>[!danger] 🔞敏感内容警告🔞
 
-TachiJ2K及其分支
+> [!quote] 所有动物生来平等 但有些动物比其他动物更平等 —— 《动物庄园》
+
+Tachiyomi及其分支
+
+
+Tachiyomi是一款开源的漫画阅读软件，可通过安装插件扩展书源，插件涵盖国内外几乎所有的漫画及同人志网站 包括知名的E站 N站 动漫之家 哔咔哔咔 禁漫 该项目于2024年1月13日停止了开发，随后TachiJ2K Mihon 等分支成为了精神继承
+TachiyomiJ2K
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/baib-web/img/TachiyomiJ2K%E5%9B%BE%E6%A0%87.png" width="27%"/></div>
+Shinsou
+
+Mihon
+
+TachiyomiSY
+
+TachiyomiAZ
+
+Neko
+
+Suwayomi
+
 pica Comic
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/baib-web/img/pica%20Comic.png" width="30%"/></div>
 Ehviewer及其分支
