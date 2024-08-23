@@ -1,5 +1,5 @@
 # <center>hentai主题软件分享</center>
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/baib-web/img/ahegao.jpg" width="60%" /></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/baib-web/img/ahegao.jpg" width="75%" /></div>
 >[!danger] 🔞敏感内容警告🔞
 
 > [!quote] 所有动物生来平等 但有些动物比其他动物更平等 —— 《动物庄园》
