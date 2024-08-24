@@ -10,7 +10,7 @@ const config = {
   logo: "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Face%20Holding%20Back%20Tears.webp",
   //导航页
   navbarTitle: {
-    logo: "<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Blossom.png" alt="Blossom" width="25" height="25" />",
+    logo: "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Blossom.png",
   },
   // 域名
   domain: "https://flowershow.youzhidanbairu.eu.org",
