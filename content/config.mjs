@@ -8,6 +8,12 @@ const config = {
   author: "Baib",
   // 标识
   logo: "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Face%20Holding%20Back%20Tears.webp",
+  //导航页
+  navbarTitle: {
+    logo: "/images/logo.svg",
+    text: "Baib的数字花园",
+    version: "Alpha",
+  },
   // 域名
   domain: "https://flowershow.youzhidanbairu.eu.org",
   //公开编辑链接
