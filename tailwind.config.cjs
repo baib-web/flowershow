@@ -43,21 +43,4 @@ module.exports = {
   plugins: [
     require("@tailwindcss/typography")
   ],
-},
-module.exports = {
-  theme: {
-    extend: {
-      animation: {
-        'move-bg': 'move-bg 5s infinite',
-      },
-      keyframes: {
-        'move-bg': {
-          '0%': { backgroundPosition: '0% 50%' },
-          '50%': { backgroundPosition: '100% 50%' },
-          '100%': { backgroundPosition: '0% 50%' },
-        },
-      },
-    },
-  },
-  plugins: [],
 };
