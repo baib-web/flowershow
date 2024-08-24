@@ -21,4 +21,16 @@
        ├─ 模板
        └─ 视频嵌入
 
-<span class="animate-move-bg bg-gradient-to-r from-indigo-500    via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text   text-transparent">Animated<!-- --> </span>
+```html
+<body class="flex items-center justify-center min-h-screen bg-gray-100">
+  <span class="animate-move-bg bg-gradient-to-r from-indigo-500 via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text text-transparent text-4xl font-bold">
+    Animated
+  </span>
+</body>
+```
+
+<body class="flex items-center justify-center min-h-screen bg-gray-100">
+  <span class="animate-move-bg bg-gradient-to-r from-indigo-500 via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text text-transparent text-4xl font-bold">
+    Animated
+  </span>
+</body>
