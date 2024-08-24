@@ -1,7 +1,7 @@
 // config.js
 const config = {
   // 名称
-  title: "Baib的数字花园🥳,
+  title: "Baib的数字花园🥳",
   // 描述
   description: "技术分享和日常唠嗑",
   // 作者
