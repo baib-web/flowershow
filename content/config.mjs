@@ -1,7 +1,7 @@
 // config.js
 const config = {
   // 名称
-  title: "Baib的数字花园🥳",
+  title: "Baib的数字花园",
   // 描述
   description: "技术分享和日常唠嗑",
   // 作者
@@ -10,9 +10,7 @@ const config = {
   logo: "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Face%20Holding%20Back%20Tears.webp",
   //导航页
   navbarTitle: {
-    logo: "/images/logo.svg",
-    text: "Baib的数字花园",
-    version: "Alpha",
+    logo: "<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Blossom.png" alt="Blossom" width="25" height="25" />",
   },
   // 域名
   domain: "https://flowershow.youzhidanbairu.eu.org",
@@ -42,12 +40,18 @@ const config = {
   navLinks: [
     { href: "/blog", name: "Blog" },
   ],
+  //搜索引擎
   search: {
-    provider: "algolia",
-    config: {
-      appId: process.env.NEXT_PUBLIC_DOCSEARCH_APP_ID,
-      apiKey: process.env.NEXT_PUBLIC_DOCSEARCH_API_KEY,
-      indexName: process.env.NEXT_PUBLIC_DOCSEARCH_INDEX_NAME,
+    provider: "kbar",
+    kbarConfig: {
+      defaultActions: [
+        {
+          id: "blog",
+          name: "Blog",
+          keywords: "content",
+          perform: () => (window.location.pathname = "blog"),
+        },
+      ],
     },
   },
 };
