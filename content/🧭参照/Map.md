@@ -20,3 +20,5 @@
        ├─ 标注
        ├─ 模板
        └─ 视频嵌入
+
+<span class="animate-move-bg bg-gradient-to-r from-indigo-500    via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text   text-transparent">Animated<!-- --> </span>
