@@ -1,4 +1,22 @@
-<span class="animate-move-bg bg-gradient-to-r from-indigo-500    via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text   text-transparent">Map<!-- --> </span>
+
+<style>
+@keyframes move-bg {
+  0% {
+    background-position: 0% 50%;
+  }
+  100% {
+    background-position: 100% 50%;
+  }
+}
+.animate-move-bg {
+  animation: move-bg 5s linear infinite;
+}
+</style>
+
+<span class="animate-move-bg bg-gradient-to-r from-indigo-500 via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text text-transparent">
+  Map
+</span>
+
 
 优质蛋白乳的个人博客
 ├─ 🏠首页
