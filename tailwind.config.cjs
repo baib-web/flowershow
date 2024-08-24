@@ -13,18 +13,15 @@ module.exports = {
   darkMode: "class",
   theme: {
     extend: {
+      animation: {
+        'move-bg': 'move-bg 5s infinite',
+      },
       keyframes: {
-        animatedgradient: {
+        'move-bg': {
           '0%': { backgroundPosition: '0% 50%' },
           '50%': { backgroundPosition: '100% 50%' },
           '100%': { backgroundPosition: '0% 50%' },
         },
-      },
-      backgroundSize: {
-        '300%': '300%',
-      },
-      animation: {
-        gradient: 'animatedgradient 6s ease infinite alternate',
       },
       // support wider width for large screens >1440px eg. in hero
       maxWidth: {
