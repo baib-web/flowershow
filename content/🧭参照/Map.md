@@ -26,17 +26,7 @@
 ```
 
 
-<style>
-    @keyframes move-bg {
-      0% { background-position: 0% 50%; }
-      50% { background-position: 100% 50%; }
-      100% { background-position: 0% 50%; }
-    }
-    .animate-move-bg {
-      background-size: 400%;
-      animation: move-bg 5s infinite;
-    }
-  </style>
+
 
 <h1><span class="animate-move-bg bg-gradient-to-r from-indigo-500 via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text text-transparent">Animated </span></h1> 
 
