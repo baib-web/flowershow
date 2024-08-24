@@ -39,6 +39,8 @@ const config = {
   //导航栏链接
   navLinks: [
     { href: "/blog", name: "Blog" },
+    { href: "/🧭参照/Map", name: "Map" },
+    { href: "https://bento.me/aipio", name: "我的卡片" },
   ],
   //搜索引擎
   search: {
