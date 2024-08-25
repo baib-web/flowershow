@@ -40,7 +40,7 @@ const config = {
   navLinks: [
     { href: "/blog", name: "Blog" },
     { href: "/🧭参照/Map", name: "Map" },
-    { href: "https://bento.me/aipio", target: "_blank", name: "我的卡片" },
+    { href: "https://bento.me/aipio", name: "我的卡片", target: "_blank" },
   ],
   //搜索引擎
   search: {
