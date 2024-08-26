@@ -1,5 +1,4 @@
 ---
-id: aipio
 name: Aipio King
-avatar: assets/2048.jpeg
+avatar: /assets/2048.jpeg
 ---
