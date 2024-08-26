@@ -39,7 +39,7 @@ const config = {
   //导航栏链接
   navLinks: [
     { href: "/blog", name: "Blog" },
-    { href: "/🧭参照/Map", name: "Map" },
+    { href: "/🧭参照/Map", logo: "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/World%20Map.png" },
     { href: "https://bento.me/aipio", name: "我的卡片" },
     { href: "https://alist.youzhidanbairu.eu.org/", name: "所有资源" },
   ],
