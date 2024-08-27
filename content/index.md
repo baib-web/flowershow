@@ -8,4 +8,4 @@ showComments: true
 ![](https://telegraph.youzhidanbairu.eu.org/file/8d040e6910ac064fb92dd.jpg)
 > [!quote]  一个人的行走范围，就是他的世界。——北岛 
 
-![](https://rplace.youzhidanbairu.eu.org/)
+<iframe src="https://rplace.youzhidanbairu.eu.org/" width="100%" height="100%" frameborder="1/0" name="iframe名称" scrolling="yes/no/auto"></iframe>
