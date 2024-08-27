@@ -3,7 +3,9 @@ showSidebar: true
 showToc: true
 showComments: true
 ---
-### <center>这里是我的文章主页  🏠</center>
+# <center><span class="animate-move-bg bg-gradient-to-r from-indigo-500 via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text text-transparent">这里是我的文章主页</span></center>
 
 ![](https://telegraph.youzhidanbairu.eu.org/file/8d040e6910ac064fb92dd.jpg)
-> [!quote]  ✨ 一个人的行走范围，就是他的世界。——北岛 ✨
+> [!quote]  一个人的行走范围，就是他的世界。——北岛 
+
+![](https://rplace.youzhidanbairu.eu.org/)
