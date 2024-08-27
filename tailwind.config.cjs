@@ -13,7 +13,7 @@ module.exports = {
   darkMode: "class",
   theme: {
     extend: {
-//动态渐变文字背景
+      //动态渐变文字背景
       animation: {
         'move-bg': 'move-bg 5s infinite',
       },
