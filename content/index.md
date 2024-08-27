@@ -10,14 +10,3 @@ showComments: true
 
 <iframe src="https://rplace.youzhidanbairu.eu.org/" width="100%" height="100%" frameborder="1/0" name="iframe名称" scrolling="yes/no/auto"></iframe>
 
-<body class="overflow-hidden">
-    <iframe src="https://rplace.youzhidanbairu.eu.org/" id="myIframe" name="iframe名称" class="w-full h-full border-none overscroll-contain" scrolling="auto"></iframe>
-
-    <script>
-        const iframe = document.getElementById('myIframe');
-
-        iframe.contentWindow.addEventListener('wheel', function(event) {
-            event.stopPropagation();
-        });
-    </script>
-</body>
