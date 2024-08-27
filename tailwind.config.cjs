@@ -13,6 +13,7 @@ module.exports = {
   darkMode: "class",
   theme: {
     extend: {
+//动态渐变文字背景
       animation: {
         'move-bg': 'move-bg 5s infinite',
       },
@@ -52,5 +53,6 @@ module.exports = {
   /* eslint global-require: off */
   plugins: [
     require("@tailwindcss/typography")
+    require('tailwind-scrollbar-hide')
   ],
 };
