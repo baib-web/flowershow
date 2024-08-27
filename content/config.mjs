@@ -7,10 +7,10 @@ const config = {
   // 作者
   author: "Baib",
   // 标识
-  logo: "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Face%20Holding%20Back%20Tears.webp",
+  logo: "https://cdn.jsdelivr.net/gh/baib-web/img/FaceHoldingBackTears-ezgif.com-webp-to-gif-converter.gif",
   //导航页
   navbarTitle: {
-    logo: "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Blossom.png",
+    logo: "https://cdn.jsdelivr.net/gh/baib-web/img/Blossom.png",
   },
   // 域名
   domain: "https://flowershow.youzhidanbairu.eu.org",
