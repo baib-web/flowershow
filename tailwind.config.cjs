@@ -24,6 +24,13 @@ module.exports = {
           '100%': { backgroundPosition: '0% 50%' },
         },
       },
+      固定高度和自适应宽度
+      height: {
+        '100px': '100px',
+      },
+      width: {
+        'auto': 'auto',
+      },
       // support wider width for large screens >1440px eg. in hero
       maxWidth: {
         "8xl": "88rem",
