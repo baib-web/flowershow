@@ -24,17 +24,6 @@ module.exports = {
           '100%': { backgroundPosition: '0% 50%' },
         },
       },
-      //隐藏滑动条
-      scrollbar: {
-        hide: {
-          'overflow': 'auto',
-          '-ms-overflow-style': 'none',  /* IE and Edge */
-          'scrollbar-width': 'none',     /* Firefox */
-          '&::-webkit-scrollbar': {
-            display: 'none',             /* Chrome, Safari, and Opera */
-          },
-        },
-      },
       // support wider width for large screens >1440px eg. in hero
       maxWidth: {
         "8xl": "88rem",
