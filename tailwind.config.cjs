@@ -61,6 +61,6 @@ module.exports = {
   plugins: [
     require("@tailwindcss/typography"),
     require('./plugins/image-responsive'),
-    require('./plugins/glow-text.js'),
+    require('./plugins/glow-text'),
   ],
 };
