@@ -1,4 +1,4 @@
- /*文本发光*/
+ /*发光*/
 module.exports = function ({ addUtilities }) {
   addUtilities({
     '.glow': {
