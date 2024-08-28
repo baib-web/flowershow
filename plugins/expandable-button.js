@@ -21,7 +21,7 @@ module.exports = {
           'background-color': '#0056b3', // 悬停时按钮背景颜色
         },
         'summary::marker': {
-          'display': 'none', // 隐藏默认的箭头
+          'display': 'none', // 隐藏默认的箭
         },
       });
     },
