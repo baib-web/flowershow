@@ -31,7 +31,7 @@ module.exports = {
       width: {
         'auto': 'auto',
       },
-      // support wider width for large screens >1440px eg. in hero
+      // support wider width for large screens >1440px eg. in hero 
       maxWidth: {
         "8xl": "88rem",
       },
