@@ -8,5 +8,13 @@ module.exports = function ({ addUtilities }) {
       /* IE, Edge */
       'overflow': 'hidden',
     },
+    '.show-scrollbar:hover': {
+      /* Chrome, Edge, Safari */
+      '-webkit-overflow-hidden': 'scroll',
+      /* Firefox */
+      '-moz-overflow-hidden': 'scroll',
+      /* IE, Edge */
+      'overflow': 'scroll',
+    },
   })
 }
