@@ -1,3 +1,4 @@
+ /* 隐藏滑条 */
 module.exports = function ({ addUtilities }) {
   addUtilities({
     '.hide-scrollbar': {
