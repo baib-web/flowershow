@@ -24,9 +24,16 @@ module.exports = {
           '100%': { backgroundPosition: '0% 50%' },
         },
       },
-      //文字发光效果
-      textShadow: {
-        'glow': '0 0 10px rgba(255, 255, 255, 0.5), 0 0 20px rgba(255, 255, 255, 0.3), 0 0 30px rgba(255, 255, 255, 0.2)',
+      //隐藏滑动条
+      scrollbar: {
+        hide: {
+          'overflow': 'auto',
+          '-ms-overflow-style': 'none',  /* IE and Edge */
+          'scrollbar-width': 'none',     /* Firefox */
+          '&::-webkit-scrollbar': {
+            display: 'none',             /* Chrome, Safari, and Opera */
+          },
+        },
       },
       // support wider width for large screens >1440px eg. in hero
       maxWidth: {
