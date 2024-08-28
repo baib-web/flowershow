@@ -62,5 +62,6 @@ module.exports = {
     require("@tailwindcss/typography"),
     require('./plugins/image-responsive'),
     require('./plugins/hide-scrollbar'),
+    require('./plugins/glow-text'),
   ],
 };
