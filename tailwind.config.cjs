@@ -26,7 +26,7 @@ module.exports = {
       },
       //固定高度和自适应宽度
       height: {
-        '100px': '100px',
+        '350px': '350px',
       },
       width: {
         'auto': 'auto',
