@@ -59,6 +59,7 @@ module.exports = {
   },
   /* eslint global-require: off */
   plugins: [
-    require("@tailwindcss/typography")
+    require("@tailwindcss/typography"),
+    require('./plugins/image-responsive'),
   ],
 };
