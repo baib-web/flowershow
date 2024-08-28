@@ -59,7 +59,8 @@ module.exports = {
   },
   /* eslint global-require: off */
   plugins: [
-    require("@tailwindcss/typography"),
-    require('./plugins/image-responsive'),
+    require("@tailwindcss/typography"),//官方
+    require('./plugins/image-responsive'),//横滚图片宽度大小适应小屏幕
+    require('./hide-scrollbar'),//隐藏滚动条
   ],
 };
