@@ -10,5 +10,5 @@ showComments: true
 # <div class="flex items-center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/Pi%C3%B1ata.png" alt="Construction" width="55" height="auto" /><span class="animate-move-bg bg-gradient-to-r from-indigo-500 via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text text-transparent">开篇</span><img src="https://flowershow.youzhidanbairu.eu.org/assets/Pi%C3%B1ata.png" alt="Construction" width="55" height="auto" /></div>
 
 111
+<div class="relative"> <iframe id="myIframe" class="zoom-in" width="100%" height="100%" src="https://rplace.youzhidanbairu.eu.org"></iframe> </div>
 
-<iframe src="https://rplace.youzhidanbairu.eu.org/" sandbox="allow-scripts allow-same-origin" width="100%" height="100%" frameborder="0" name="iframe名称" scrolling="auto"></iframe>
