@@ -1,10 +1,11 @@
-module.exports = plugin(function({ addUtilities }) {
+function plugin(addUtilities) {
   addUtilities({
-    '.no-pointer-events': {
-      'pointer-events': 'none',
+    '.prevent-parent-hover': {
+      'iframe': {
+        'pointer-events': 'none',
+      },
     },
-    '.pointer-events-auto': {
-      'pointer-events': 'auto',
-    },
-  });
-});
+  })
+}
+
+module.exports = plugin
