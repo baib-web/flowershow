@@ -31,11 +31,6 @@ module.exports = {
       width: {
         'auto': 'auto',
       },
-      //嵌入网页冲突解决
-           scale: {
-        '100': '1',
-        '125': '1.25',
-      },
       // support wider width for large screens >1440px eg. in hero
       maxWidth: {
         "8xl": "88rem",
@@ -67,6 +62,5 @@ module.exports = {
     require("@tailwindcss/typography"),
     require('./plugins/image-responsive'),
     require('./plugins/expandable-button'),
-    require('./plugins/zoom'),
   ],
 };
