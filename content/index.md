@@ -11,23 +11,4 @@ showComments: true
 
 111
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<iframe src="https://rplace.youzhidanbairu.eu.org/" width="100%" height="100%" frameborder="1/0" name="iframe名称" scrolling="yes/no/auto"></iframe>
-
+<iframe src="https://rplace.youzhidanbairu.eu.org/" style="pointer-events: none;" width="100%" height="100%" frameborder="0" name="iframe名称" scrolling="auto"></iframe>
