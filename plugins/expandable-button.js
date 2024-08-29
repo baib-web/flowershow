@@ -11,6 +11,8 @@ module.exports = function ({ addUtilities }) {
       'cursor': 'pointer',
       'font-size': '16px',
       'transition': 'background-color 0.3s',
+      'line-height': '1', // 设置行高为1
+      'height': 'auto', // 自动调整高度
     },
     '.expandable-button:hover': {
     },
