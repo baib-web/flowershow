@@ -62,6 +62,5 @@ module.exports = {
     require("@tailwindcss/typography"),
     require('./plugins/image-responsive'),
     require('./plugins/expandable-button'),
-    require('./plugins/iframe-zoom'),
   ],
 };
