@@ -25,11 +25,9 @@ module.exports = {
         },
       },
       // bilibili
-      container: {
-        'iframe-container': {
-          position: 'relative',
-          padding: '30% 45%',
-        },
+      spacing: {
+        '30%': '30%',
+        '45%': '45%',
       },
       // support wider width for large screens >1440px eg. in hero
       maxWidth: {
