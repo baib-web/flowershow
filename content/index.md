@@ -11,6 +11,3 @@ showComments: true
 
 111
 
-<div class="no-hover-parent">
-  <iframe src="http://rplace.youzhidanbairu.eu.org/" class="no-hover-iframe"></iframe>
-</div>
