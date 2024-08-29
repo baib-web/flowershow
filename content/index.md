@@ -11,7 +11,6 @@ showComments: true
 
 111
 
-
-
-<iframe id="my-iframe" class="scale-100 hover:scale-125 transition-transform zoom" src="https://rplace.youzhidanbairu.eu.org"></iframe>
-
+<div class="no-hover-parent">
+  <iframe src="http://rplace.youzhidanbairu.eu.org/" class="no-hover-iframe"></iframe>
+</div>
