@@ -24,10 +24,6 @@ module.exports = {
           '100%': { backgroundPosition: '0% 50%' },
         },
       },
-      // bilibili
-      aspectRatio: {
-        '16/9': [16, 9],
-      },
       // support wider width for large screens >1440px eg. in hero
       maxWidth: {
         "8xl": "88rem",
