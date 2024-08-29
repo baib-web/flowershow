@@ -25,9 +25,8 @@ module.exports = {
         },
       },
       // bilibili
-      spacing: {
-        '30%': '30%',
-        '45%': '45%',
+      aspectRatio: {
+        '16/9': [16, 9],
       },
       // support wider width for large screens >1440px eg. in hero
       maxWidth: {
