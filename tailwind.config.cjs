@@ -13,6 +13,13 @@ module.exports = {
   darkMode: "class",
   theme: {
     extend: {
+      //固定高度和自适应宽度
+      height: {
+        '350px': '350px',
+      },
+      width: {
+        'auto': 'auto',
+      },
       //动态渐变文字背景
       animation: {
         'move-bg': 'move-bg 5s infinite',
