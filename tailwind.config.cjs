@@ -13,6 +13,25 @@ module.exports = {
   darkMode: "class",
   theme: {
     extend: {
+      // 视频嵌入
+      spacing: {
+        '30p': '30%',
+        '45p': '45%',
+      },
+      position: {
+        'relative': 'relative',
+        'absolute': 'absolute',
+      },
+      inset: {
+        '0': '0',
+      },
+      width: {
+        'full': '100%',
+      },
+      height: {
+        'full': '100%',
+      },
+    },
       //固定高度和自适应宽度
       height: {
         '350px': '350px',
