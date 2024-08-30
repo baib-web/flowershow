@@ -31,7 +31,6 @@ module.exports = {
       height: {
         'full': '100%',
       },
-    },
       //固定高度和自适应宽度
       height: {
         '350px': '350px',
