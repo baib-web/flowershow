@@ -13,12 +13,6 @@ module.exports = {
   darkMode: "class",
   theme: {
     extend: {
-      overscrollBehavior: {
-        'contain': 'contain',
-      },
-      variants: {
-        overscrollBehavior: ['responsive'],
-      },
       //固定高度和自适应宽度
       height: {
         '350px': '350px',
@@ -68,5 +62,6 @@ module.exports = {
     require("@tailwindcss/typography"),
     require('./plugins/image-responsive'),
     require('./plugins/expandable-button'),
+    require('./plugins/tailwind-scroll-control'),
   ],
 };
