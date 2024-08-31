@@ -16,6 +16,9 @@ module.exports = {
       overscrollBehavior: {
         'contain': 'contain',
       },
+      variants: {
+        overscrollBehavior: ['responsive'],
+      },
       //固定高度和自适应宽度
       height: {
         '350px': '350px',
