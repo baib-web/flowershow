@@ -1,6 +1,7 @@
 # <center>hentai主题软件分享</center>
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/baib-web/img/ahegao.jpg" width="75%" /></div>
->[!danger] <div class="flex items-center">敏感内容警告<img src="https://flowershow.youzhidanbairu.eu.org/assets/No%20One%20Under%20Eighteen.png" alt="Alien Monster" width="25" height="25" /></div>
+>[!danger] 
+><div class="flex items-center">敏感内容警告<img src="https://flowershow.youzhidanbairu.eu.org/assets/No%20One%20Under%20Eighteen.png" alt="Alien Monster" width="25" height="25" /></div>
 
 > [!quote] 所有动物生来平等 但有些动物比其他动物更平等 —— 《动物庄园》
 
