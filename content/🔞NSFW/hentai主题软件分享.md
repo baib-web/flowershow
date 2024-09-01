@@ -26,9 +26,9 @@ pica Comic
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/baib-web/img/pica%20Comic.png" width="30%"/></div>
 Ehviewer及其分支
 <div class="flex flex-row justify-between items-center">
-        <img src="https://cdn.jsdelivr.net/gh/baib-web/img/EhViewer_logo.png" /> 
-        <img src="https://cdn.jsdelivr.net/gh/baib-web/img/Logo_of_EhViewer_by_NekoInverter_in_day_mode.png"/> 
-        <img src="https://cdn.jsdelivr.net/gh/baib-web/img/Ehviewer-Overhauled_logo.svg.png"/> 
+        <img src="https://cdn.jsdelivr.net/gh/baib-web/img/EhViewe1r_logo.png"width="25%" /> 
+        <img src="https://cdn.jsdelivr.net/gh/baib-web/img/RoundCorner%20(2).png"width="25%"/> 
+        <img src="https://cdn.jsdelivr.net/gh/baib-web/img/Ehviewer-Overhauled_logo.svg.png"width="25%"/> 
 </div>
 
 Eros-FE
