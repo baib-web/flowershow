@@ -94,8 +94,8 @@
   </details>
 </center>
 
-| <a href="https://github.com/wgh136/PicaComic" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/baib-web/img/get-it-on-github.png" alt="图片" class=" w-100 h-auto transition-transform duration-300 hover:scale-110"/> </a> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <center><a href="https://github.com/wgh136/PicaComic" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/baib-web/img/get-it-on-github.png" width="250" height="auto" alt="图片" class=" w-100 h-auto transition-transform duration-300 hover:scale-110"/> </a><center> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 # <span class="animate-move-bg bg-gradient-to-r from-indigo-500 via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text text-transparent">· Ehviewer 及其分支</span>
 <div class="flex flex-row justify-between items-center">
         <img src="https://cdn.jsdelivr.net/gh/baib-web/img/EhViewe1r_logo.png"width="25%" /> 
@@ -143,8 +143,8 @@
   </details>
 </center>
 
-| <center><a href="https://ehviewer.info/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/baib-web/img/%E2%80%94Pngtree%E2%80%94downoad%20button%20green%20vector%20image_9037100.png" alt="图片" class=" w-100 h-auto transition-transform duration-300 hover:scale-110"/> </a></center> |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <center><a href="https://ehviewer.info/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/baib-web/img/%E2%80%94Pngtree%E2%80%94downoad%20button%20green%20vector%20image_9037100.png" alt="图片" width="250" height="auto" class=" w-100 h-auto transition-transform duration-300 hover:scale-110"/> </a></center> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 # <span class="animate-move-bg bg-gradient-to-r from-indigo-500 via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text text-transparent">· Eros-FE</span>
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/baib-web/img/Eros-FE.png" width="30%"/></div>
 <div class="flex overflow-x-auto space-x-4 p-4">
