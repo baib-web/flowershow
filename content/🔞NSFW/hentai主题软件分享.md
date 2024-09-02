@@ -7,7 +7,7 @@
 # <span class="animate-move-bg bg-gradient-to-r from-indigo-500 via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text text-transparent">· TachiyomiJ2K</span>
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/baib-web/img/TachiyomiJ2K%E5%9B%BE%E6%A0%87.png" width="27%"/></div>
 <div class="flex overflow-x-auto space-x-4 p-4">
-        <img class="image-responsive h-350px" src="https://cdn.jsdelivr.net/gh/baib-web/img/screens.gif"/>
+        <img src="https://cdn.jsdelivr.net/gh/baib-web/img/screens.gif"/>
 </div>
 <center>
 <details class="w-full max-w-md">
