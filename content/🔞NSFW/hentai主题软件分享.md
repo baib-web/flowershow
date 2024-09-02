@@ -194,9 +194,7 @@
   </details>
 </center>
 
-|     |     |
-| --- | --- |
-|     |     |
+
 
 # <span class="animate-move-bg bg-gradient-to-r from-indigo-500 via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text text-transparent">· PicACG</span>
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/baib-web/img/PicACG.png"width="26%"/></div>
@@ -242,9 +240,7 @@
   </details>
 </center>
 
-|     |     |
-| --- | --- |
-|     |     |
+
 
 # <span class="animate-move-bg bg-gradient-to-r from-indigo-500 via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text text-transparent">· JHenTai</span>
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/baib-web/img/JHenTai.png" width="30%"/></div>
@@ -289,9 +285,7 @@
   </details>
 </center>
 
-|     |     |
-| --- | --- |
-|     |     |
+
 
 # <span class="animate-move-bg bg-gradient-to-r from-indigo-500 via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text text-transparent">· Hentoid</span>
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/baib-web/img/Hentoid.png" width="26%"/></div>
@@ -335,9 +329,7 @@
   </details>
 </center>
 
-|     |     |
-| --- | --- |
-|     |     |
+
 
 # <span class="animate-move-bg bg-gradient-to-r from-indigo-500 via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text text-transparent">· 禁漫</span>
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/baib-web/img/%E7%A6%81%E6%BC%AB%E5%A4%A9%E5%A0%82icon.png" width="26%"/></div>
@@ -382,9 +374,7 @@
   </details>
 </center>
 
-|     |     |
-| --- | --- |
-|     |     |
+
 
 # <span class="animate-move-bg bg-gradient-to-r from-indigo-500 via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text text-transparent">· Miru</span>
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/baib-web/img/RoundCorner%20(7).png" width="27%"/></div>
@@ -430,6 +420,4 @@
   </details>
 </center>
 
-|     |     |
-| --- | --- |
-|     |     |
+
