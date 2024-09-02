@@ -98,9 +98,9 @@
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 # <span class="animate-move-bg bg-gradient-to-r from-indigo-500 via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text text-transparent">· Ehviewer 及其分支</span>
 <div class="flex flex-row justify-between items-center">
-        <img src="https://cdn.jsdelivr.net/gh/baib-web/img/EhViewe1r_logo.png"width="25%" /> 
-        <img src="https://cdn.jsdelivr.net/gh/baib-web/img/RoundCorner%20(2).png"width="25%"/> 
-        <img src="https://cdn.jsdelivr.net/gh/baib-web/img/Ehviewer-Overhauled_logo.svg.png"width="25%"/> 
+        <img src="https://cdn.jsdelivr.net/gh/baib-web/img/EhViewe1r_logo.png" width="25%" /> 
+        <img src="https://cdn.jsdelivr.net/gh/baib-web/img/RoundCorner%20(2).png" width="25%"/> 
+        <img src="https://cdn.jsdelivr.net/gh/baib-web/img/Ehviewer-Overhauled_logo.svg.png" width="25%"/> 
 </div>
 <div class="flex overflow-x-auto space-x-4 p-4">
         <img class="image-responsive h-350px" src="https://cdn.jsdelivr.net/gh/baib-web/img/202409021906551.png"/>
@@ -289,9 +289,7 @@
 
 # <span class="animate-move-bg bg-gradient-to-r from-indigo-500 via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text text-transparent">· Hentoid</span>
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/baib-web/img/Hentoid.png" width="26%"/></div>
-<div class="flex overflow-x-auto space-x-4 p-4">
-        <img class="image-responsive h-350px" src="https://cdn.jsdelivr.net/gh/baib-web/img/202409021945234.png"/>
-</div>
+![](https://cdn.jsdelivr.net/gh/baib-web/img/202409021945234.png)
 <center>
 <details class="w-full max-w-md">
     <summary class="expandable-button flex items-center justify-center">
