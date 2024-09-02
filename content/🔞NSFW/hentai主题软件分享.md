@@ -51,6 +51,12 @@
 
 # <span class="animate-move-bg bg-gradient-to-r from-indigo-500 via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text text-transparent">· pica Comic</span>
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/baib-web/img/pica%20Comic.png" width="30%"/></div>
+<div class="flex overflow-x-auto space-x-4 p-4">
+        <img src="https://cdn.jsdelivr.net/gh/baib-web/img/202409021831066.png"/>
+        <img src="https://cdn.jsdelivr.net/gh/baib-web/img/202409021831390.png"/>
+        <img src="https://cdn.jsdelivr.net/gh/baib-web/img/202409021832646.png"/>
+        <img src="https://cdn.jsdelivr.net/gh/baib-web/img/202409021833941.png"/>
+</div>
 # <span class="animate-move-bg bg-gradient-to-r from-indigo-500 via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text text-transparent">· Ehviewer 及其分支</span>
 <div class="flex flex-row justify-between items-center">
         <img src="https://cdn.jsdelivr.net/gh/baib-web/img/EhViewe1r_logo.png"width="25%" /> 
@@ -58,6 +64,7 @@
         <img src="https://cdn.jsdelivr.net/gh/baib-web/img/Ehviewer-Overhauled_logo.svg.png"width="25%"/> 
 </div>
 
+<center><iframe src="https://zh.wikibooks.org/wiki/EhViewer" frameborder="0" width="100%" height="auto" allowfullscreen></iframe></center>
 # <span class="animate-move-bg bg-gradient-to-r from-indigo-500 via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text text-transparent">· Eros-FE</span>
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/baib-web/img/Eros-FE.png" width="30%"/></div>
 # <span class="animate-move-bg bg-gradient-to-r from-indigo-500 via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text text-transparent">· PicACG</span>
