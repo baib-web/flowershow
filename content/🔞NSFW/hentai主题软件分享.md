@@ -55,7 +55,7 @@
         <img class="image-responsive h-350px" src="https://cdn.jsdelivr.net/gh/baib-web/img/202409021831066.png"/>
         <img class="image-responsive h-350px" src="https://cdn.jsdelivr.net/gh/baib-web/img/202409021831390.png"/>
         <img class="image-responsive h-350px"  src="https://cdn.jsdelivr.net/gh/baib-web/img/202409021832646.png"/>
-        <img src="https://cdn.jsdelivr.net/gh/baib-web/img/202409021833941.png"/>
+        <img class="image-responsive h-350px" src="https://cdn.jsdelivr.net/gh/baib-web/img/202409021833941.png"/>
 </div>
 <center>
 <details class="w-full max-w-md">
