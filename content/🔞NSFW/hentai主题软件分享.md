@@ -76,10 +76,10 @@
           <tbody>
             <tr>
               <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408272354484.png" alt="Check Mark Button" width="25" height="25" /></div></td>
-              <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408280001544.png" alt="Cross Mark" width="25" height="25" /></div></td>
-              <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408280001544.png" alt="Cross Mark" width="25" height="25" /></div></td>
-              <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408280001544.png" alt="Cross Mark" width="25" height="25" /></div></td>
-              <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408280001544.png" alt="Cross Mark" width="25" height="25" /></div></td>
+              <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408272354484.png" alt="Check Mark Button" width="25" height="25" /></div></td>
+              <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408272354484.png" alt="Check Mark Button" width="25" height="25" /></div></td>
+              <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408272354484.png" alt="Check Mark Button" width="25" height="25" /></div></td>
+              <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408272354484.png" alt="Check Mark Button" width="25" height="25" /></div></td>
             </tr>
           </tbody>
         </table>
@@ -177,7 +177,7 @@
             <tr>
               <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408272354484.png" alt="Check Mark Button" width="25" height="25" /></div></td>
               <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408280001544.png" alt="Cross Mark" width="25" height="25" /></div></td>
-              <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408280001544.png" alt="Cross Mark" width="25" height="25" /></div></td>
+              <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408272354484.png" alt="Check Mark Button" width="25" height="25" /></div></td>
               <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408280001544.png" alt="Cross Mark" width="25" height="25" /></div></td>
               <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408280001544.png" alt="Cross Mark" width="25" height="25" /></div></td>
             </tr>
@@ -223,7 +223,7 @@
             <tr>
               <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408272354484.png" alt="Check Mark Button" width="25" height="25" /></div></td>
               <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408280001544.png" alt="Cross Mark" width="25" height="25" /></div></td>
-              <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408280001544.png" alt="Cross Mark" width="25" height="25" /></div></td>
+              <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408272354484.png" alt="Check Mark Button" width="25" height="25" /></div></td>
               <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408280001544.png" alt="Cross Mark" width="25" height="25" /></div></td>
               <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408280001544.png" alt="Cross Mark" width="25" height="25" /></div></td>
             </tr>
@@ -269,10 +269,10 @@
           <tbody>
             <tr>
               <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408272354484.png" alt="Check Mark Button" width="25" height="25" /></div></td>
-              <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408280001544.png" alt="Cross Mark" width="25" height="25" /></div></td>
-              <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408280001544.png" alt="Cross Mark" width="25" height="25" /></div></td>
-              <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408280001544.png" alt="Cross Mark" width="25" height="25" /></div></td>
-              <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408280001544.png" alt="Cross Mark" width="25" height="25" /></div></td>
+              <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408272354484.png" alt="Check Mark Button" width="25" height="25" /></div></td>
+              <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408272354484.png" alt="Check Mark Button" width="25" height="25" /></div></td>
+              <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408272354484.png" alt="Check Mark Button" width="25" height="25" /></div></td>
+              <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408272354484.png" alt="Check Mark Button" width="25" height="25" /></div></td>
             </tr>
           </tbody>
         </table>
@@ -324,7 +324,7 @@
             <table class="min-w-full border-collapse border border-white">
           <thead>
             <tr>
-              <th class="py-2 px-4 border-b"><div align="center">TachiyomiJ 2 K 是一款基于 Tachiyomi 的开源安卓漫画阅读器，专为 Android 设备设计。与原版相比，TachiyomiJ 2 K 增加了许多实用功能和 UI 调整，支持最新的 Android API。用户可以通过扩展模块从多种来源在线阅读漫画，也可以阅读已下载的本地内容。阅读器具有多种查看器、阅读方向和其他设置，支持 MyAnimeList、AniList、Kitsu、Shikimori 和 Manga Updates 等平台的同步。TachiyomiJ 2 K 提供了动态分类、自动亮度和暗黑主题切换、定期更新图书馆、创建本地备份等功能。此外，它还支持批量自动源迁移、Material Design 设计元素以及 Android 12 的新特性。虽然应用本身不提供漫画内容，但用户可以通过安装扩展模块来访问数百个漫画网站，完全免费且无广告</div></th>
+              <th class="py-2 px-4 border-b"><div align="center">Hentoid是一款无广告的同人志和 H-Manga 存档和查看应用程序。 Hentoid目前支持： nhentai、hitomi、asmhentai、tsumino、pururin、e-hentai、exHentai/sadpanda、8muses、Doujins.com、Luscious.net、Porncomixonline、HBrowse、Hentai2Read、HentaiFox、Myreadingmanga、Manwha Hentai、Imhentai、Toonily、Allporncomic、Pixiv和 MultPorn。</div></th>
             </tr>
           </thead>
         </table>
@@ -360,7 +360,7 @@
             <tr>
               <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408272354484.png" alt="Check Mark Button" width="25" height="25" /></div></td>
               <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408280001544.png" alt="Cross Mark" width="25" height="25" /></div></td>
-              <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408280001544.png" alt="Cross Mark" width="25" height="25" /></div></td>
+              <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408272354484.png" alt="Check Mark Button" width="25" height="25" /></div></td>
               <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408280001544.png" alt="Cross Mark" width="25" height="25" /></div></td>
               <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408280001544.png" alt="Cross Mark" width="25" height="25" /></div></td>
             </tr>
@@ -405,7 +405,7 @@
           <tbody>
             <tr>
               <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408272354484.png" alt="Check Mark Button" width="25" height="25" /></div></td>
-              <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408280001544.png" alt="Cross Mark" width="25" height="25" /></div></td>
+              <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408272354484.png" alt="Check Mark Button" width="25" height="25" /></div></td>
               <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408280001544.png" alt="Cross Mark" width="25" height="25" /></div></td>
               <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408280001544.png" alt="Cross Mark" width="25" height="25" /></div></td>
               <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408280001544.png" alt="Cross Mark" width="25" height="25" /></div></td>
@@ -415,7 +415,7 @@
             <table class="min-w-full border-collapse border border-white">
           <thead>
             <tr>
-              <th class="py-2 px-4 border-b"><div align="center">[Miru 是一个免费且开源的多功能应用，支持视频、漫画和小说的扩展源，适用于 Android、Windows 和 Web 平台。它提供友好的扩展编写支持，使用 JavaScript 语言开发简单，并支持自定义扩展仓库。Miru 还集成了 TMDB 元数据和 AniList 追踪功能，用户可以在线查看多种来源的内容，实现多平台的统一体验](https://github.com/miru-project/miru-app)</div></th>
+              <th class="py-2 px-4 border-b"><div align="center">Miru 是一个免费且开源的多功能应用，支持视频、漫画和小说的扩展源，适用于 Android、Windows 和 Web 平台。它提供友好的扩展编写支持，使用 JavaScript 语言开发简单，并支持自定义扩展仓库。Miru 还集成了 TMDB 元数据和 AniList 追踪功能，用户可以在线查看多种来源的内容，实现多平台的统一体验</div></th>
             </tr>
           </thead>
         </table>
