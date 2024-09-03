@@ -288,9 +288,8 @@
 </center>
 
 
-| <center><a href="https://github.com/jiangtian616/JHenTai/releases" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/baib-web/img/get-it-on-github.png" alt="图片" width="250" height="auto"  class=" w-100 h-auto transition-transform duration-300 hover:scale-110"/> </a></center> |     |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-|                                                                                                                                                                                                                                                                                          |     |
+| <center><a href="https://github.com/jiangtian616/JHenTai/releases" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/baib-web/img/get-it-on-github.png" alt="图片" width="250" height="auto"  class=" w-100 h-auto transition-transform duration-300 hover:scale-110"/> </a></center> |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
 # <span class="animate-move-bg bg-gradient-to-r from-indigo-500 via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text text-transparent">· Hentoid</span>
@@ -333,13 +332,9 @@
   </details>
 </center>
 
-
-|     |     |
-| --- | --- |
-|     |     |
-
-
-# <span class="animate-move-bg bg-gradient-to-r from-indigo-500 via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text text-transparent">· 禁漫</span>
+| <center><a href="https://github.com/avluis/Hentoid/releases" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/baib-web/img/get-it-on-github.png" alt="图片" width="250" height="auto"  class=" w-100 h-auto transition-transform duration-300 hover:scale-110"/> </a></center> |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+# <span class="animate-move-bg bg-gradient-to-r from-indigo-500 via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text text-transparent">· 禁漫天堂</span>
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/baib-web/img/%E7%A6%81%E6%BC%AB%E5%A4%A9%E5%A0%82icon.png" width="26%"/></div>
 <div class="flex overflow-x-auto space-x-4 p-4">
         <img class="image-responsive h-350px" src="https://cdn.jsdelivr.net/gh/baib-web/img/202409021948642.png"/>
@@ -382,12 +377,8 @@
   </details>
 </center>
 
-
-|     |     |
-| --- | --- |
-|     |     |
-
-
+| <center><a href="https://18comic.vip/stray/APP" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/baib-web/img/%E2%80%94Pngtree%E2%80%94downoad%20button%20green%20vector%20image_9037100.png" alt="图片" width="250" height="auto"  class=" w-100 h-auto transition-transform duration-300 hover:scale-110"/> </a></center> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 # <span class="animate-move-bg bg-gradient-to-r from-indigo-500 via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text text-transparent">· Miru</span>
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/baib-web/img/RoundCorner%20(7).png" width="27%"/></div>
 <div class="flex overflow-x-auto space-x-4 p-4">
@@ -432,8 +423,9 @@
   </details>
 </center>
 
-|     |     |
-| --- | --- |
-|     |     |
+| <center><a href="https://miru.js.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/baib-web/img/%E2%80%94Pngtree%E2%80%94downoad%20button%20green%20vector%20image_9037100.png" alt="图片" width="250" height="auto"  class=" w-100 h-auto transition-transform duration-300 hover:scale-110"/> </a></center> | <center><a href="https://github.com/miru-project/miru-app/releases" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/baib-web/img/get-it-on-github.png" alt="图片" width="250" height="auto"  class=" w-100 h-auto transition-transform duration-300 hover:scale-110"/> </a></center> |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+# <div class="flex items-center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/Construction.png" alt="Construction" width="55" height="auto" /><span class="animate-move-bg bg-gradient-to-r from-indigo-500 via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text text-transparent">由此迎来结束</span><img src="https://flowershow.youzhidanbairu.eu.org/assets/Construction.png" alt="Construction" width="55" height="auto" /></div>
+<div class="flex items-center">祝冲浪愉快<img src="https://flowershow.youzhidanbairu.eu.org/assets/Woman%20Surfing%20Medium-Light%20Skin%20Tone.png" alt="Woman Surfing Medium-Light Skin Tone" width="25" height="25" /></div>
 
 
