@@ -86,7 +86,7 @@
             <table class="min-w-full border-collapse border border-white">
           <thead>
             <tr>
-              <th class="py-2 px-4 border-b"><div align="center">TachiyomiJ 2 K 是一款基于 Tachiyomi 的开源安卓漫画阅读器，专为 Android 设备设计。与原版相比，TachiyomiJ 2 K 增加了许多实用功能和 UI 调整，支持最新的 Android API。用户可以通过扩展模块从多种来源在线阅读漫画，也可以阅读已下载的本地内容。阅读器具有多种查看器、阅读方向和其他设置，支持 MyAnimeList、AniList、Kitsu、Shikimori 和 Manga Updates 等平台的同步。TachiyomiJ 2 K 提供了动态分类、自动亮度和暗黑主题切换、定期更新图书馆、创建本地备份等功能。此外，它还支持批量自动源迁移、Material Design 设计元素以及 Android 12 的新特性。虽然应用本身不提供漫画内容，但用户可以通过安装扩展模块来访问数百个漫画网站，完全免费且无广告</div></th>
+              <th class="py-2 px-4 border-b"><div align="center">Pica Comic 是一个使用 Flutter 构建的多平台漫画应用，支持查看多个漫画源，包括 Picacg、E-hentai、禁漫天堂、Hitomi、绅士漫画和 Nhentai。这个开源项目不仅支持在线阅读和下载漫画，还可以管理本地和网络收藏夹，并同步阅读历史记录</div></th>
             </tr>
           </thead>
         </table>
@@ -135,7 +135,7 @@
             <table class="min-w-full border-collapse border border-white">
           <thead>
             <tr>
-              <th class="py-2 px-4 border-b"><div align="center">TachiyomiJ 2 K 是一款基于 Tachiyomi 的开源安卓漫画阅读器，专为 Android 设备设计。与原版相比，TachiyomiJ 2 K 增加了许多实用功能和 UI 调整，支持最新的 Android API。用户可以通过扩展模块从多种来源在线阅读漫画，也可以阅读已下载的本地内容。阅读器具有多种查看器、阅读方向和其他设置，支持 MyAnimeList、AniList、Kitsu、Shikimori 和 Manga Updates 等平台的同步。TachiyomiJ 2 K 提供了动态分类、自动亮度和暗黑主题切换、定期更新图书馆、创建本地备份等功能。此外，它还支持批量自动源迁移、Material Design 设计元素以及 Android 12 的新特性。虽然应用本身不提供漫画内容，但用户可以通过安装扩展模块来访问数百个漫画网站，完全免费且无广告</div></th>
+              <th class="py-2 px-4 border-b"><div align="center">Ehviewer 是一个轻量级且高性能的开源安卓应用，主要用于浏览和下载 e-hentai. Org 和 exhentai. Org 网站上的内容。它的多个分支，如 EhViewer Overhauled 和 EhViewer CN SXJ，进一步优化了用户体验，增加了 Material Design 3 设计、动态色彩支持以及多线程下载等功能</div></th>
             </tr>
           </thead>
         </table>
@@ -186,7 +186,7 @@
             <table class="min-w-full border-collapse border border-white">
           <thead>
             <tr>
-              <th class="py-2 px-4 border-b"><div align="center">TachiyomiJ 2 K 是一款基于 Tachiyomi 的开源安卓漫画阅读器，专为 Android 设备设计。与原版相比，TachiyomiJ 2 K 增加了许多实用功能和 UI 调整，支持最新的 Android API。用户可以通过扩展模块从多种来源在线阅读漫画，也可以阅读已下载的本地内容。阅读器具有多种查看器、阅读方向和其他设置，支持 MyAnimeList、AniList、Kitsu、Shikimori 和 Manga Updates 等平台的同步。TachiyomiJ 2 K 提供了动态分类、自动亮度和暗黑主题切换、定期更新图书馆、创建本地备份等功能。此外，它还支持批量自动源迁移、Material Design 设计元素以及 Android 12 的新特性。虽然应用本身不提供漫画内容，但用户可以通过安装扩展模块来访问数百个漫画网站，完全免费且无广告</div></th>
+              <th class="py-2 px-4 border-b"><div align="center">Eros-FE 是一个基于 Flutter 开发的 e-hentai 和 exhentai 浏览应用，提供了丰富的功能，包括多种视图模式、标签翻译、自动翻页、下载管理和 WebDAV 同步等，旨在为用户提供流畅且高效的漫画阅读体验</div></th>
             </tr>
           </thead>
         </table>
@@ -194,8 +194,8 @@
   </details>
 </center>
 
-
-
+| <center><a href="https://github.com/3003h/Eros-FE/releases" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/baib-web/img/get-it-on-github.png" alt="图片" width="250" height="auto"  class=" w-100 h-auto transition-transform duration-300 hover:scale-110"/> </a></center> |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 # <span class="animate-move-bg bg-gradient-to-r from-indigo-500 via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text text-transparent">· PicACG</span>
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/baib-web/img/PicACG.png"width="26%"/></div>
 <div class="flex overflow-x-auto space-x-4 p-4">
@@ -232,7 +232,7 @@
             <table class="min-w-full border-collapse border border-white">
           <thead>
             <tr>
-              <th class="py-2 px-4 border-b"><div align="center">TachiyomiJ 2 K 是一款基于 Tachiyomi 的开源安卓漫画阅读器，专为 Android 设备设计。与原版相比，TachiyomiJ 2 K 增加了许多实用功能和 UI 调整，支持最新的 Android API。用户可以通过扩展模块从多种来源在线阅读漫画，也可以阅读已下载的本地内容。阅读器具有多种查看器、阅读方向和其他设置，支持 MyAnimeList、AniList、Kitsu、Shikimori 和 Manga Updates 等平台的同步。TachiyomiJ 2 K 提供了动态分类、自动亮度和暗黑主题切换、定期更新图书馆、创建本地备份等功能。此外，它还支持批量自动源迁移、Material Design 设计元素以及 Android 12 的新特性。虽然应用本身不提供漫画内容，但用户可以通过安装扩展模块来访问数百个漫画网站，完全免费且无广告</div></th>
+              <th class="py-2 px-4 border-b"><div align="center">PicACG 是一个专注于提供优质动漫、漫画和游戏内容的网络社区平台，用户可以通过其官方 App 和网页版轻松浏览、阅读和下载各种漫画作品。其分支版本如 PicACG Overhauled 和 PicACG CN SXJ，进一步优化了用户体验，增加了个性化推荐、离线缓存、多种阅读模式等功能，满足不同用户的需求</div></th>
             </tr>
           </thead>
         </table>
@@ -240,6 +240,8 @@
   </details>
 </center>
 
+| <center><a href="http://picacgp.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/baib-web/img/%E2%80%94Pngtree%E2%80%94downoad%20button%20green%20vector%20image_9037100.png" alt="图片" width="250" height="auto"  class=" w-100 h-auto transition-transform duration-300 hover:scale-110"/> </a></center> |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 
 # <span class="animate-move-bg bg-gradient-to-r from-indigo-500 via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text text-transparent">· JHenTai</span>
@@ -277,7 +279,7 @@
             <table class="min-w-full border-collapse border border-white">
           <thead>
             <tr>
-              <th class="py-2 px-4 border-b"><div align="center">TachiyomiJ 2 K 是一款基于 Tachiyomi 的开源安卓漫画阅读器，专为 Android 设备设计。与原版相比，TachiyomiJ 2 K 增加了许多实用功能和 UI 调整，支持最新的 Android API。用户可以通过扩展模块从多种来源在线阅读漫画，也可以阅读已下载的本地内容。阅读器具有多种查看器、阅读方向和其他设置，支持 MyAnimeList、AniList、Kitsu、Shikimori 和 Manga Updates 等平台的同步。TachiyomiJ 2 K 提供了动态分类、自动亮度和暗黑主题切换、定期更新图书馆、创建本地备份等功能。此外，它还支持批量自动源迁移、Material Design 设计元素以及 Android 12 的新特性。虽然应用本身不提供漫画内容，但用户可以通过安装扩展模块来访问数百个漫画网站，完全免费且无广告</div></th>
+              <th class="py-2 px-4 border-b"><div align="center">JHenTai 是一个跨平台的漫画浏览应用，专为 e-hentai 和 exhentai 设计，基于 Flutter 开发，提供了多种功能如标签翻译、自动翻页和下载管理。其分支版本如 FEhViewer 和 EHPanda，进一步优化了用户体验，增加了多线程下载、动态色彩支持等功能，满足不同用户的需求</div></th>
             </tr>
           </thead>
         </table>
@@ -285,6 +287,10 @@
   </details>
 </center>
 
+
+| <center><a href="https://github.com/jiangtian616/JHenTai/releases" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/baib-web/img/get-it-on-github.png" alt="图片" width="250" height="auto"  class=" w-100 h-auto transition-transform duration-300 hover:scale-110"/> </a></center> |     |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+|                                                                                                                                                                                                                                                                                          |     |
 
 
 # <span class="animate-move-bg bg-gradient-to-r from-indigo-500 via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text text-transparent">· Hentoid</span>
@@ -328,6 +334,10 @@
 </center>
 
 
+|     |     |
+| --- | --- |
+|     |     |
+
 
 # <span class="animate-move-bg bg-gradient-to-r from-indigo-500 via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text text-transparent">· 禁漫</span>
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/baib-web/img/%E7%A6%81%E6%BC%AB%E5%A4%A9%E5%A0%82icon.png" width="26%"/></div>
@@ -364,7 +374,7 @@
             <table class="min-w-full border-collapse border border-white">
           <thead>
             <tr>
-              <th class="py-2 px-4 border-b"><div align="center">TachiyomiJ 2 K 是一款基于 Tachiyomi 的开源安卓漫画阅读器，专为 Android 设备设计。与原版相比，TachiyomiJ 2 K 增加了许多实用功能和 UI 调整，支持最新的 Android API。用户可以通过扩展模块从多种来源在线阅读漫画，也可以阅读已下载的本地内容。阅读器具有多种查看器、阅读方向和其他设置，支持 MyAnimeList、AniList、Kitsu、Shikimori 和 Manga Updates 等平台的同步。TachiyomiJ 2 K 提供了动态分类、自动亮度和暗黑主题切换、定期更新图书馆、创建本地备份等功能。此外，它还支持批量自动源迁移、Material Design 设计元素以及 Android 12 的新特性。虽然应用本身不提供漫画内容，但用户可以通过安装扩展模块来访问数百个漫画网站，完全免费且无广告</div></th>
+              <th class="py-2 px-4 border-b"><div align="center">禁漫天堂是一款深受漫画爱好者喜爱的阅读应用，汇集了海量的漫画资源，涵盖了从热血、冒险到爱情、奇幻等各种题材，满足不同读者的需求。其界面设计简洁美观，用户体验友好，操作流畅便捷。无论是在线阅读还是离线下载，禁漫天堂都提供了高清画质和多种阅读模式，确保用户能够随时随地享受优质的漫画内容。此外，应用还会根据用户的阅读历史和偏好，智能推荐相关的漫画作品，让用户发现更多感兴趣的内容。总之，禁漫天堂不仅是一个漫画阅读平台，更是一个让漫画迷们沉浸其中的乐园。</div></th>
             </tr>
           </thead>
         </table>
@@ -372,6 +382,10 @@
   </details>
 </center>
 
+
+|     |     |
+| --- | --- |
+|     |     |
 
 
 # <span class="animate-move-bg bg-gradient-to-r from-indigo-500 via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text text-transparent">· Miru</span>
@@ -410,12 +424,16 @@
             <table class="min-w-full border-collapse border border-white">
           <thead>
             <tr>
-              <th class="py-2 px-4 border-b"><div align="center">TachiyomiJ 2 K 是一款基于 Tachiyomi 的开源安卓漫画阅读器，专为 Android 设备设计。与原版相比，TachiyomiJ 2 K 增加了许多实用功能和 UI 调整，支持最新的 Android API。用户可以通过扩展模块从多种来源在线阅读漫画，也可以阅读已下载的本地内容。阅读器具有多种查看器、阅读方向和其他设置，支持 MyAnimeList、AniList、Kitsu、Shikimori 和 Manga Updates 等平台的同步。TachiyomiJ 2 K 提供了动态分类、自动亮度和暗黑主题切换、定期更新图书馆、创建本地备份等功能。此外，它还支持批量自动源迁移、Material Design 设计元素以及 Android 12 的新特性。虽然应用本身不提供漫画内容，但用户可以通过安装扩展模块来访问数百个漫画网站，完全免费且无广告</div></th>
+              <th class="py-2 px-4 border-b"><div align="center">[Miru 是一个免费且开源的多功能应用，支持视频、漫画和小说的扩展源，适用于 Android、Windows 和 Web 平台。它提供友好的扩展编写支持，使用 JavaScript 语言开发简单，并支持自定义扩展仓库。Miru 还集成了 TMDB 元数据和 AniList 追踪功能，用户可以在线查看多种来源的内容，实现多平台的统一体验](https://github.com/miru-project/miru-app)</div></th>
             </tr>
           </thead>
         </table>
     </div>
   </details>
 </center>
+
+|     |     |
+| --- | --- |
+|     |     |
 
 
