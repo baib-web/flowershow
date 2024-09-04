@@ -425,6 +425,54 @@
 
 | <center><a href="https://miru.js.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/baib-web/img/%E2%80%94Pngtree%E2%80%94downoad%20button%20green%20vector%20image_9037100.png" alt="图片" width="250" height="auto"  class=" w-100 h-auto transition-transform duration-300 hover:scale-110"/> </a></center> | <center><a href="https://github.com/miru-project/miru-app/releases" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/baib-web/img/get-it-on-github.png" alt="图片" width="250" height="auto"  class=" w-100 h-auto transition-transform duration-300 hover:scale-110"/> </a></center> |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+# <span class="animate-move-bg bg-gradient-to-r from-indigo-500 via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text text-transparent">· Han1meViewer</span>
+
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/baib-web/img/772f23ff03506e1968823f2a36fa5629415c54b3.png" width="27%"/></div>
+<div class="flex overflow-x-auto space-x-4 p-4">
+        <img class="image-responsive h-350px" src="https://cdn.jsdelivr.net/gh/baib-web/img/Screenshot_2024-09-04-16-03-03-315_com.yenaly.han1meviewer~2.jpg"/>
+        <img class="image-responsive h-350px" src="https://cdn.jsdelivr.net/gh/baib-web/img/Screenshot_2024-09-04-16-03-29-153_com.yenaly.han1meviewer~2.jpg"/>
+        <img class="image-responsive h-350px" src="https://cdn.jsdelivr.net/gh/baib-web/img/Screenshot_2024-09-04-16-03-33-538_com.yenaly.han1meviewer~2.jpg"/>
+        <img class="image-responsive h-350px" src="https://cdn.jsdelivr.net/gh/baib-web/img/Screenshot_2024-09-04-16-03-49-944_com.yenaly.han1meviewer~2.jpg"/>
+</div>
+<center>
+<details class="w-full max-w-md">
+    <summary class="expandable-button flex items-center justify-center">
+      <h3>--- 查看详情 ---</h3>
+    </summary>
+    <div class="overflow-x-auto">
+       <table class="min-w-full border-collapse border border-white">
+          <thead>
+            <tr>
+              <th class="py-2 px-4 border-b"><div  align="center"><img src="https://cdn.jsdelivr.net/gh/baib-web/img/Android-Emblem.png" alt="Alien Monster" width="45" height="25" /></div></th>
+              <th class="py-2 px-4 border-b"><div align="center"><img  src="https://cdn.jsdelivr.net/gh/baib-web/img/ne6ukkej06t71.png" alt="Alien Monster" width="25" height="25" /></div></th>
+              <th class="py-2 px-4 border-b"><div align="center"><img src="https://cdn.jsdelivr.net/gh/baib-web/img/Apple%20Store.png" alt="Alien Monster" width="25" height="25" /></div></th>
+              <th class="py-2 px-4 border-b"><div align="center"><img src="https://cdn.jsdelivr.net/gh/baib-web/img/Finder_Icon_macOS_Big_Sur.png" alt="Alien Monster" width="25" height="25" /></div></th>
+              <th class="py-2 px-4 border-b"><div align="center"><img src="https://cdn.jsdelivr.net/gh/baib-web/img/OS-Linux-icon.png" alt="Alien Monster" width="25" height="25" /></div></th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408272354484.png" alt="Check Mark Button" width="25" height="25" /></div></td>
+              <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408280001544.png" alt="Cross Mark" width="25" height="25" /></div></td>
+              <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408280001544.png" alt="Cross Mark" width="25" height="25" /></div></td>
+              <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408280001544.png" alt="Cross Mark" width="25" height="25" /></div></td>
+              <td class="py-2 px-4 border-b"><div align="center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408280001544.png" alt="Cross Mark" width="25" height="25" /></div></td>
+            </tr>
+          </tbody>
+        </table>
+            <table class="min-w-full border-collapse border border-white">
+          <thead>
+            <tr>
+              <th class="py-2 px-4 border-b"><div align="center">Han1meViewer 是一款非官方的 Android 应用，专为访问知名动漫网站 Hanime1 而设计。它采用现代化的开发框架，兼容 Android 7.0 及更高版本。通过对 Hanime1 网站内容的深度解析，Han1meViewer 能够让用户在移动设备上顺畅浏览和播放大量动漫资源。该应用不仅功能丰富，还针对用户需求进行了优化设计，确保提供极致的动漫体验</div></th>
+            </tr>
+          </thead>
+        </table>
+    </div>
+  </details>
+</center>
+
+| <center><a href="https://github.com/YenalyLiew/Han1meViewer/releases" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/baib-web/img/get-it-on-github.png" alt="图片" width="250" height="auto"  class=" w-100 h-auto transition-transform duration-300 hover:scale-110"/> </a></center> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 # <div class="flex items-center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/Construction.png" alt="Construction" width="55" height="auto" /><span class="animate-move-bg bg-gradient-to-r from-indigo-500 via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text text-transparent">由此迎来结束</span><img src="https://flowershow.youzhidanbairu.eu.org/assets/Construction.png" alt="Construction" width="55" height="auto" /></div>
 <div class="flex items-center">祝冲浪愉快<img src="https://flowershow.youzhidanbairu.eu.org/assets/Woman%20Surfing%20Medium-Light%20Skin%20Tone.png" alt="Woman Surfing Medium-Light Skin Tone" width="25" height="25" /></div>
 
