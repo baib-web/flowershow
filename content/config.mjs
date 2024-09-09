@@ -57,6 +57,25 @@ const config = {
       ],
     },
   },
+  //网站元数据
+  nextSeo: {
+    titleTemplate: "%s | Flowershow",
+    description:
+      "技术分享和日常唠嗑",
+    canonical: "https://flowershow.youzhidanbairu.eu.org",
+    openGraph: {
+      title: "Baib的数字花园",
+      images: [
+        {
+          url: "https://cdn.jsdelivr.net/gh/baib-web/img/anime%20irl.jpg",
+          alt: "Flowershow",
+          width: 735,
+          height: 621,
+          type: "image/jpg",
+        },
+      ],
+    },
+  },
 };
 
 export default config;
