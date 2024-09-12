@@ -9,7 +9,7 @@ showComments: true
 > [!quote]  一个人的行走范围，就是他的世界。——北岛 
 # <div class="flex items-center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/Pi%C3%B1ata.png" alt="Construction" width="55" height="auto" /><span class="animate-move-bg bg-gradient-to-r from-indigo-500 via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text text-transparent">开篇</span><img src="https://flowershow.youzhidanbairu.eu.org/assets/Pi%C3%B1ata.png" alt="Construction" width="55" height="auto" /></div>
 
-# <span class="animate-move-bg bg-gradient-to-r from-indigo-500 via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text text-transparent">Ciallo& #95 ;～(& #x2220 ;& #xB7 ;& #x03C9 ;& #x3C8 ;& #x3C0 ;& #x3C9 ;& #x3C8 ;& #x3C0 ;)& #x25C0 ;& #x2606 ;</span>
+# <span class="animate-move-bg bg-gradient-to-r from-indigo-500 via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text text-transparent">Ciallo ～(∠·ω&lt; )⌒★</span>
 欢迎来到我的博客，这里专注于分享和学习，
 # 捐助
 
