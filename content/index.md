@@ -3,7 +3,7 @@ showSidebar: true
 showToc: true
 showComments: true
 ---
-# <span class="flex items-center  justify-center "><img src="https://flowershow.youzhidanbairu.eu.org/assets/House.png" alt="House" width="55" height="auto" /><span class="animate-move-bg bg-gradient-to-r from-[#2CD5FFFF] via-[#349CEBFF] to-[#2CD5FFFF] bg-[length:400%] bg-clip-text text-transparent">这里是我的博客主页</span></span>
+## <span class="flex items-center  justify-center "><img src="https://flowershow.youzhidanbairu.eu.org/assets/House.png" alt="House" width="35" height="auto" /><span class="animate-move-bg bg-gradient-to-r from-[#2CD5FFFF] via-[#349CEBFF] to-[#2CD5FFFF] bg-[length:400%] bg-clip-text text-transparent">这里是我的博客主页</span></span>
 
 ![](https://telegraph.youzhidanbairu.eu.org/file/8d040e6910ac064fb92dd.jpg)
 > [!quote]  一个人的行走范围，就是他的世界。——北岛 
