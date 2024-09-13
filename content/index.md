@@ -3,22 +3,21 @@ showSidebar: true
 showToc: true
 showComments: true
 ---
-# <center><span class="animate-move-bg bg-gradient-to-r from-[#2CD5FFFF] via-[#349CEBFF] to-[#2CD5FFFF] bg-[length:400%] bg-clip-text text-transparent">这里是我的文章主页</span></center>
+# <center><span class="animate-move-bg bg-gradient-to-r from-[#2CD5FFFF] via-[#349CEBFF] to-[#2CD5FFFF] bg-[length:400%] bg-clip-text text-transparent">这里是我的博客主页</span></center>
 
 ![](https://telegraph.youzhidanbairu.eu.org/file/8d040e6910ac064fb92dd.jpg)
 > [!quote]  一个人的行走范围，就是他的世界。——北岛 
 # <span class="flex items-center height-100px"><img src="https://flowershow.youzhidanbairu.eu.org/assets/Pi%C3%B1ata.png" id="margin" width="55" height="auto" class="m-0" /><span class="animate-move-bg bg-gradient-to-r from-indigo-500 via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text text-transparent">开篇</span><img src="https://flowershow.youzhidanbairu.eu.org/assets/Pi%C3%B1ata.png" id="margin" width="55" height="auto" class="m-0" /></span>
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/baib-web/img/anime%20irl.jpg" width="80%"/></div>
 <h3> <span class="animate-move-bg bg-gradient-to-r from-indigo-500 via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text text-transparent">Ciallo ～(∠·ω&lt; )⌒★</span></h3>
-欢迎来到我的博客，这是我在互联网的自留地，主要是发布一些资源整合和教程类的文章，特别包括科学上网和软件资源，能在茫茫互联网相遇也是一种幸运，如果你欣赏和喜欢我的内容，可以将本网站添加到你的浏览器书签，如果你有兴趣与我交流你可以添加我的群组，如果你有意向捐助我可以在这里选择捐助，
+欢迎来到我的博客，这里目的用于整合和分享来自互联网的好物，分享我个人在冲浪过程里的心得。希望能够帮助到同样喜欢冲浪的朋友。喜欢我的内容的话不要忘记添加书签到你的浏览器哦。
+# <span class="animate-move-bg bg-gradient-to-r from-indigo-500 via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text text-transparent">捐助</span>
+支持我的工作，让我持续输出高质量内容。
 
-# 事项
+# <span class="animate-move-bg bg-gradient-to-r from-indigo-500 via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text text-transparent">群组</span>
+有意向与同好们进行自由且友好的交流吗，欢迎加入我的群组
 
-# 捐助
 
-# 群组
-
-# 公告
 
 
 
