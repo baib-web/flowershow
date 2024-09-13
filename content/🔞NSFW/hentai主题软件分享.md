@@ -473,7 +473,7 @@
 
 | <center><a href="https://github.com/YenalyLiew/Han1meViewer/releases" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/baib-web/img/get-it-on-github.png" alt="图片" width="250" height="auto"  class=" w-100 h-auto transition-transform duration-300 hover:scale-110"/> </a></center> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-# <div class="flex items-center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/Construction.png" alt="Construction" width="55" height="auto" class="m-0"/><span class="animate-move-bg bg-gradient-to-r from-indigo-500 via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text text-transparent">由此迎来结束</span><img src="https://flowershow.youzhidanbairu.eu.org/assets/Construction.png" alt="Construction" width="55" height="auto" class="m-0"/></div>
+# <div class="flex items-center mx-auto"><img src="https://flowershow.youzhidanbairu.eu.org/assets/Construction.png" alt="Construction" width="55" height="auto" class="m-0"/><span class="animate-move-bg bg-gradient-to-r from-indigo-500 via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text text-transparent">由此迎来结束</span><img src="https://flowershow.youzhidanbairu.eu.org/assets/Construction.png" alt="Construction" width="55" height="auto" class="m-0"/></div>
 <div class="flex items-center">祝冲浪愉快<img src="https://flowershow.youzhidanbairu.eu.org/assets/Woman%20Surfing%20Medium-Light%20Skin%20Tone.png" alt="Woman Surfing Medium-Light Skin Tone" width="25" height="25" class="m-0"/></div>
 
 
