@@ -20,7 +20,7 @@ showComments: true
 有意向与同好们进行自由且友好的交流吗，欢迎加入我的群组
 <span class="flex items-center justify-center">
 <a href="www.baidu.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/baib-web/img/Telegram-icon-on-transparentbackground-PNG.png " width="100" height="auto" alt="图片" class=" w-100 h-auto transition-transform duration-300 hover:scale-110"/> </a>
-<span width="200"></span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <a href="www.baidu.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/baib-web/img/qq-icon-256x256-gyghvfu1.png "  width="100" height="auto" alt="图片" class=" w-100 h-auto transition-transform duration-300 hover:scale-110"/> </a>
 </span>
 
