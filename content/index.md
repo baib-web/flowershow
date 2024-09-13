@@ -3,7 +3,7 @@ showSidebar: true
 showToc: true
 showComments: true
 ---
-# <center><span class="animate-move-bg bg-gradient-to-r from-[#2CB9FFFF] via-[#1947FDFF] to-[#2751B3FF] bg-[length:400%] bg-clip-text text-transparent">这里是我的文章主页</span></center>
+# <center><span class="animate-move-bg bg-gradient-to-r from-[#2CD5FFFF] via-[#2044D5FF] to-[#15277EFF] bg-[length:400%] bg-clip-text text-transparent">这里是我的文章主页</span></center>
 
 ![](https://telegraph.youzhidanbairu.eu.org/file/8d040e6910ac064fb92dd.jpg)
 > [!quote]  一个人的行走范围，就是他的世界。——北岛 
