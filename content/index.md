@@ -19,9 +19,9 @@ showComments: true
 # <span class="animate-move-bg bg-gradient-to-r from-indigo-500 via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text text-transparent">群组</span>
 有意向与同好们进行自由且友好的交流吗，欢迎加入我的群组
 <span class="flex items-center justify-center">
-<a href="www.baidu.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/baib-web/img/Telegram-icon-on-transparentbackground-PNG.png "width="100" height="auto" /> </a>
+<a href="www.baidu.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/baib-web/img/Telegram-icon-on-transparentbackground-PNG.png " class="w-100 mx-100" width="120" height="auto" /> </a>
 <span width="200" height="auto"></span>
-<a href="www.baidu.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/baib-web/img/qq-icon-256x256-gyghvfu1.png " width="100" height="auto" /> </a>
+<a href="www.baidu.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/baib-web/img/qq-icon-256x256-gyghvfu1.png " class="w-100 mx-100" width="120" height="auto" /> </a>
 </span>
 
 
