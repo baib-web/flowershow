@@ -21,8 +21,7 @@ showComments: true
 <a href="www.baidu.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/baib-web/img/7572220.png" width="100" height="auto" alt="图片" class=" w-100 h-auto transition-transform duration-300 hover:scale-110"/> </a>
 </span>
 <br><br>
-<div  class=" border-2 border-solid border-blue-500 rounded-xl p-5">
-<h1 class="animate-move-bg bg-gradient-to-r from-[#2CD5FFFF] via-[#349CEBFF] to-[#2CD5FFFF] bg-[length:400%] bg-clip-text text-transparent">● 群组</h1></span>
+# <span class="animate-move-bg bg-gradient-to-r from-[#2CD5FFFF] via-[#349CEBFF] to-[#2CD5FFFF] bg-[length:400%] bg-clip-text text-transparent">● 群组</span>
 有意向与同好们进行自由且友好的交流吗，欢迎加入我的群组
 
 <span class="flex items-center justify-center border-2 border-solid border-blue-500 rounded-xl p-5">
