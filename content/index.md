@@ -15,20 +15,21 @@ showComments: true
 
 # <span class="flex items-center  justify-center "><img src="https://flowershow.youzhidanbairu.eu.org/assets/Pi%C3%B1ata.png" width="55" height="auto" class="m-0" /><span class="animate-move-bg bg-gradient-to-r from-[#2CD5FFFF] via-[#349CEBFF] to-[#2CD5FFFF] bg-[length:400%] bg-clip-text text-transparent">开篇</span><img src="https://flowershow.youzhidanbairu.eu.org/assets/Pi%C3%B1ata.png" width="55" height="auto" class="m-0" /></span>
 
-# <span class="animate-move-bg bg-gradient-to-r from-[#2CD5FFFF] via-[#349CEBFF] to-[#2CD5FFFF] bg-[length:400%] bg-clip-text text-transparent">捐助</span>
+# <span class="animate-move-bg bg-gradient-to-r from-[#2CD5FFFF] via-[#349CEBFF] to-[#2CD5FFFF] bg-[length:400%] bg-clip-text text-transparent">● 捐助</span>
 支持我的工作，让我持续输出高质量内容。
 <span class="flex items-center justify-center border-2 border-solid border-blue-500 rounded-xl p-5">
 <a href="www.baidu.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/baib-web/img/7572220.png" width="100" height="auto" alt="图片" class=" w-100 h-auto transition-transform duration-300 hover:scale-110"/> </a>
 </span>
-# <span class="animate-move-bg bg-gradient-to-r from-[#2CD5FFFF] via-[#349CEBFF] to-[#2CD5FFFF] bg-[length:400%] bg-clip-text text-transparent">群组</span>
+
+<div  class=" border-2 border-solid border-blue-500 rounded-xl p-5">
+<h1 class="animate-move-bg bg-gradient-to-r from-[#2CD5FFFF] via-[#349CEBFF] to-[#2CD5FFFF] bg-[length:400%] bg-clip-text text-transparent">● 群组</h1>
 有意向与同好们进行自由且友好的交流吗，欢迎加入我的群组
-<span class="flex items-center justify-center border-2 border-solid border-blue-500 rounded-xl p-5">
+<span class="flex items-center justify-center">
 <a href="https://t.me/youzhidanbairu2333" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/baib-web/img/Telegram-icon-on-transparentbackground-PNG.png " width="100" height="auto" alt="图片" class=" w-100 h-auto transition-transform duration-300 hover:scale-110"/> </a>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <a href="https://qm.qq.com/q/9ah3A0lbpK" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/baib-web/img/qq-icon-256x256-gyghvfu1.png "  width="100" height="auto" alt="图片" class=" w-100 h-auto transition-transform duration-300 hover:scale-110"/> </a>
 </span>
-
-
+</div>
 
 
 
