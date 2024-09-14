@@ -13,17 +13,17 @@ module.exports = {
   darkMode: "class",
   theme: {
     extend: {
-      borderColor: {
-        'gradient-clockwise': 'linear-gradient(90deg, #add8e6, #0000ff)',
+      colors: {
+        'light-blue': '#add8e6',
+        'blue': '#0000ff',
       },
       animation: {
-        'gradient-clockwise': 'gradient-clockwise 3s linear infinite',
+        'gradient-border': 'gradient-border 3s linear infinite',
       },
       keyframes: {
-        'gradient-clockwise': {
-          '0%': { borderColor: '#add8e6' },
+        'gradient-border': {
+          '0%, 100%': { borderColor: '#add8e6' },
           '50%': { borderColor: '#0000ff' },
-          '100%': { borderColor: '#add8e6' },
         },
       },
       //固定高度和自适应宽度
