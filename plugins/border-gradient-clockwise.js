@@ -1,20 +1,39 @@
-const plugin = require('tailwindcss/plugin');
-
 module.exports = {
-  // 你的其他配置
+  // 其他配置...
   plugins: [
-    plugin(function({ addUtilities, e, theme, variants }) {
+    plugin(function({ addUtilities }) {
       const newUtilities = {
-        '.border-gradient-clockwise': {
-          'border-image': 'conic-gradient(from 0deg, #3b82f6, #3b82f6 25%, #60a5fa 50%, #3b82f6 75%, #3b82f6) 1',
-          'border-width': '2px',
-          'border-style': 'solid',
-          'border-radius': '10px',
-          'animation': 'spin 3s linear infinite',
+        '.border-gradient': {
+          background: 'linear-gradient(0deg, #3b82f6, #3b82f6)',
+          backgroundSize: '400% 400%',
+          animation: 'gradient-animation 5s ease infinite',
+          borderRadius: '10px',
+          border: '2px solid transparent',
+          position: 'relative',
         },
-        '@keyframes spin': {
-          '0%': { transform: 'rotate(0deg)' },
-          '100%': { transform: 'rotate(360deg)' },
+        '.border-gradient::before': {
+          content: '""',
+          position: 'absolute',
+          top: '0',
+          left: '0',
+          right: '0',
+          bottom: '0',
+          borderRadius: '10px',
+          background: 'linear-gradient(90deg, #3b82f6, #3b82f6)',
+          backgroundSize: '400% 400%',
+          zIndex: '-1',
+          animation: 'gradient-animation 5s ease infinite',
+        },
+        '@keyframes gradient-animation': {
+          '0%': {
+            backgroundPosition: '0% 50%',
+          },
+          '50%': {
+            backgroundPosition: '100% 50%',
+          },
+          '100%': {
+            backgroundPosition: '0% 50%',
+          },
         },
       };
 
