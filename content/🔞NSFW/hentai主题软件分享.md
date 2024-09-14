@@ -1,5 +1,5 @@
 # <center><span class="animate-move-bg bg-gradient-to-r from-indigo-500 via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text text-transparent">hentai 主题软件分享</span></center>
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/baib-web/img/ahegao.jpg" width="75%" /></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/baib-web/img/ahegao.jpg" width="85%" /></div>
 >[!danger] 🔞敏感内容警告🔞
 
 > [!quote] 所有动物生来平等 但有些动物比其他动物更平等 —— 《动物庄园》
@@ -247,7 +247,7 @@
 # <span class="animate-move-bg bg-gradient-to-r from-indigo-500 via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text text-transparent">· JHenTai</span>
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/baib-web/img/JHenTai.png" width="30%"/></div>
 <div class="flex overflow-x-auto space-x-4 p-4">
-        <img class="image-responsive h-350px" src="https://cdn.jsdelivr.net/gh/baib-web/img/202409021943218.png"/>
+        <img class="image-responsive h-350px" src="https://cdn.jsdelivr.net/gh/baib-web/img/202409021942566.png"/>
         <img class="image-responsive h-350px" src="https://cdn.jsdelivr.net/gh/baib-web/img/202409021944595.png"/>
 </div>
 <center>
