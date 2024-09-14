@@ -13,7 +13,7 @@ module.exports = {
   darkMode: "class",
   theme: {
     extend: {
-            borderColor: {
+      borderColor: {
         'gradient-clockwise': 'linear-gradient(90deg, #add8e6, #0000ff)',
       },
       animation: {
