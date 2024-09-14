@@ -13,18 +13,8 @@ module.exports = {
   darkMode: "class",
   theme: {
     extend: {
-      colors: {
-        'light-blue': '#add8e6',
-        'blue': '#0000ff',
-      },
-      animation: {
-        'gradient-border': 'gradient-border 3s linear infinite',
-      },
-      keyframes: {
-        'gradient-border': {
-          '0%, 100%': { borderColor: '#add8e6' },
-          '50%': { borderColor: '#0000ff' },
-        },
+      gradientColorStops: {
+        'blue': ['#f0f7fe', '#3b82f6'], // 定义渐变的起始和结束颜色
       },
       //固定高度和自适应宽度
       height: {
