@@ -13,9 +13,6 @@ module.exports = {
   darkMode: "class",
   theme: {
     extend: {
-      gradientColorStops: {
-        'blue': ['#f0f7fe', '#3b82f6'], // 定义渐变的起始和结束颜色
-      },
       //固定高度和自适应宽度
       height: {
         '350px': '350px',
