@@ -22,7 +22,7 @@ showComments: true
 </span>
 
 <div  class=" border-2 border-solid border-blue-500 rounded-xl p-5">
-<span class="animate-move-bg bg-gradient-to-r from-[#2CD5FFFF] via-[#349CEBFF] to-[#2CD5FFFF] bg-[length:400%] bg-clip-text text-transparent"><h1>· 群组</h1></span>
+<h1 class="animate-move-bg bg-gradient-to-r from-[#2CD5FFFF] via-[#349CEBFF] to-[#2CD5FFFF] bg-[length:400%] bg-clip-text text-transparent">· 群组</h1>
 <br>
 有意向与同好们进行自由且友好的交流吗，欢迎加入我的群组
 <span class="flex items-center justify-center">
