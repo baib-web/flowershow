@@ -26,7 +26,9 @@ showComments: true
 <a href="https://qm.qq.com/q/9ah3A0lbpK" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/baib-web/img/qq-icon-256x256-gyghvfu1.png "  width="100" height="auto" alt="图片" class=" w-100 h-auto transition-transform duration-300 hover:scale-110"/> </a>
 </span>
 
+# <span class="animate-move-bg bg-gradient-to-r from-[#2CD5FFFF] via-[#349CEBFF] to-[#2CD5FFFF] bg-[length:400%] bg-clip-text text-transparent">· 群组</span>
 
-
-
-
+<div class="flex items-center justify-center border-2 border-solid border-blue-500 rounded-xl p-5 m-4 ">
+		<iframe> src="https://flowershow.youzhidanbairu.eu.org/%F0%9F%A7%AD%E5%8F%82%E7%85%A7/%E7%9B%AE%E5%BD%95" height="600">
+		</iframe>
+</div>
