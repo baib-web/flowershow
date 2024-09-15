@@ -1,5 +1,5 @@
 # <center><span class="animate-move-bg bg-gradient-to-r from-indigo-500 via-pink-500 to-indigo-500 bg-[length:400%] bg-clip-text text-transparent">Hentai 主题软件分享</span></center>
-<div align="center" class="bg-black"><img src="https://cdn.jsdelivr.net/gh/baib-web/img/ahegao.jpg" width="85%" /></div>
+<div align="center" class="bg-black"><img src="https://cdn.jsdelivr.net/gh/baib-web/img/ahegao.jpg" width="45%" /></div>
 >[!danger] 🔞敏感内容警告🔞
 
 > [!quote] 所有动物生来平等 但有些动物比其他动物更平等 —— 《动物庄园》
