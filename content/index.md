@@ -30,7 +30,7 @@ showComments: true
 查看我的所有文章，希望我创作的内容可以帮助到你！
 
 <div class="flex items-center justify-center border-2 border-solid border-blue-500 rounded-xl p-5 m-4 ">
-<iframe src="https://flowershow.youzhidanbairu.eu.org/%F0%9F%A7%AD%E5%8F%82%E7%85%A7/%E7%9B%AE%E5%BD%95" width="auto" height="500">
+<iframe src="https://flowershow.youzhidanbairu.eu.org/%F0%9F%A7%AD%E5%8F%82%E7%85%A7/%E7%9B%AE%E5%BD%95" width="auto" height="500" class="w-full">
 </iframe>
 </div>
 
