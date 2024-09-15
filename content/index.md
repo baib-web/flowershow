@@ -13,7 +13,7 @@ showComments: true
 <h3> <span class="animate-move-bg bg-gradient-to-r from-[#2CD5FFFF] via-[#349CEBFF] to-[#2CD5FFFF] bg-[length:400%] bg-clip-text text-transparent">Ciallo ～(∠·ω&lt; )⌒★</span></h3>
 欢迎来到我的博客，这里目的用于整合和分享来自互联网的好物，分享我个人在冲浪过程里的心得。希望能够帮助到同样喜欢冲浪的朋友。喜欢我的内容的话不要忘记添加书签到你的浏览器哦。
 # <span class="animate-move-bg bg-gradient-to-r from-[#2CD5FFFF] via-[#349CEBFF] to-[#2CD5FFFF] bg-[length:400%] bg-clip-text text-transparent">· 捐助</span>
-支持我的工作，让我持续输出高质量内容。
+支持我的工作，让我持续输出高质量内容。(支付宝)
 <span class="flex items-center justify-center border-2 border-solid border-blue-500 rounded-xl p-5 m-4">
 <a href="https://cdn.jsdelivr.net/gh/baib-web/img/%E4%B8%8B%E8%BD%BD.jpeg" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/baib-web/img/7572220.png" width="100" height="auto" alt="图片" class=" w-100 h-auto transition-transform duration-300 hover:scale-110"/> </a>
 </span>
