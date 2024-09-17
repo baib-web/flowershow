@@ -27,6 +27,7 @@ showComments: true
 </span>
 
 # <span class="animate-move-bg bg-gradient-to-r from-[#2CD5FFFF] via-[#349CEBFF] to-[#2CD5FFFF] bg-[length:400%] bg-clip-text text-transparent">· 文章目录</span>
+<center><h3>查看我的文章，看看是否能有所收获</h3></center>
 
 <div class="flex items-center border-2 border-solid border-blue-500 rounded-xl p-5 m-4">
 <details class="w-full">
