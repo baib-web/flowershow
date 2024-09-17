@@ -29,7 +29,7 @@ showComments: true
 # <span class="animate-move-bg bg-gradient-to-r from-[#2CD5FFFF] via-[#349CEBFF] to-[#2CD5FFFF] bg-[length:400%] bg-clip-text text-transparent">· 文章目录</span>
 查看我的所有文章，希望我创作的内容可以帮助到你！
 
-<div class="flex items-center justify-center border-2 border-solid border-blue-500 rounded-xl p-5 m-4 ">
+<div class="flex items-center border-2 border-solid border-blue-500 rounded-xl p-5 m-4 ">
 - <div class="flex items-center"> <img src="https://flowershow.youzhidanbairu.eu.org/assets/House.png" alt="House" width="25" height="25" class="m-0" /><a href="https://flowershow.youzhidanbairu.eu.org">主页</a> </div>
  <div class="flex items-center"> <img src="https://flowershow.youzhidanbairu.eu.org/assets/202408280008482.png" alt="Globe with Meridians" width="25" height="25" class="m-0"/>VPS 相关</div>
 - [[SSH客户端推荐]]
