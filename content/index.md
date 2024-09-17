@@ -33,7 +33,7 @@ showComments: true
     <summary class="expandable-button flex items-center justify-center">
       <h3>--- 查看详情 ---</h3>
     </summary>
-<div class="flex items-center border-2 border-solid border-blue-500 rounded-xl p-5 m-4 ">
+<div class="flex items-center border-2 border-solid border-blue-500 rounded-xl ">
 - <div class="flex items-center"> <img src="https://flowershow.youzhidanbairu.eu.org/assets/House.png" alt="House" width="25" height="25" class="m-0" /><a href="https://flowershow.youzhidanbairu.eu.org">主页</a> </div>
  <div class="flex items-center"> <img src="https://flowershow.youzhidanbairu.eu.org/assets/202408280008482.png" alt="Globe with Meridians" width="25" height="25" class="m-0"/>VPS 相关</div>
 - [[SSH客户端推荐]]
