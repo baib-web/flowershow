@@ -22,12 +22,12 @@ showComments: true
 </tr>
 <tr> 
 <td>
-<span class="flex items-center justify-center border-2 border-solid border-blue-500 rounded-xl p-5 m-4 ">
+<span class="flex items-center justify-center border-2 border-solid border-blue-500 rounded-xl p-5 m-3 ">
 <a href="https://cdn.jsdelivr.net/gh/baib-web/img/%E4%B8%8B%E8%BD%BD.jpeg" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/baib-web/img/7572220.png" width="100" height="auto" alt="图片" class=" w-100 h-auto transition-transform duration-300 hover:scale-110 m-0"/> </a>
 </span>
 </td> 
 <td>
-<span class="flex items-center justify-center border-2 border-solid border-blue-500 rounded-xl p-5 m-4 ">
+<span class="flex items-center justify-center border-2 border-solid border-blue-500 rounded-xl p-5 m-3 ">
 <a href="https://t.me/youzhidanbairu2333" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/baib-web/img/Telegram-icon-on-transparentbackground-PNG.png " width="100" height="auto" alt="图片" class=" w-100 h-auto transition-transform duration-300 hover:scale-110 m-0"/> </a>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <a href="https://qm.qq.com/q/9ah3A0lbpK" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/baib-web/img/qq-icon-256x256-gyghvfu1.png "  width="100" height="auto" alt="图片" class=" w-100 h-auto transition-transform duration-300 hover:scale-110 m-0"/> </a>
@@ -36,7 +36,7 @@ showComments: true
 </tr> 
 </table>
 # <span class="animate-move-bg bg-gradient-to-r from-[#2CD5FFFF] via-[#349CEBFF] to-[#2CD5FFFF] bg-[length:400%] bg-clip-text text-transparent">&nbsp;· 文章目录</span>
-<div class="flex items-center border-2 border-solid border-blue-500 rounded-xl p-5 m-4">
+<div class="flex items-center border-2 border-solid border-blue-500 rounded-xl p-5 m-3">
 <details class="w-full">
     <summary class="expandable-button flex items-center justify-center">
       <h3>--- 查看目录 ---</h3>
