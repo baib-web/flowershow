@@ -22,7 +22,7 @@ showComments: true
 </tr>
 <tr> 
 <td>
-<span class="border-2 border-solid border-blue-500 rounded-xl p-5 m-4 ">
+<span class="flex items-center justify-center border-2 border-solid border-blue-500 rounded-xl p-5 m-4 ">
 <a href="https://cdn.jsdelivr.net/gh/baib-web/img/%E4%B8%8B%E8%BD%BD.jpeg" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/baib-web/img/7572220.png" width="100" height="auto" alt="图片" class=" w-100 h-auto transition-transform duration-300 hover:scale-110"/> </a>
 </span>
 </td> 
