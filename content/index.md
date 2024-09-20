@@ -23,14 +23,14 @@ showComments: true
 <tr> 
 <td>
 <span class="flex items-center justify-center border-2 border-solid border-blue-500 rounded-xl p-5 m-3 ">
-<a href="https://cdn.jsdelivr.net/gh/baib-web/img/%E4%B8%8B%E8%BD%BD.jpeg" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/baib-web/img/7572220.png" width="100" height="auto" alt="图片" class=" w-100 h-auto transition-transform duration-300 hover:scale-110 m-0"/> </a>
+<a href="https://flowershow.youzhidanbairu.eu.org/assets/img/%E4%B8%8B%E8%BD%BD.jpeg" target="_blank"> <img src="https://flowershow.youzhidanbairu.eu.org/assets/img/7572220.png" width="100" height="auto" alt="图片" class=" w-100 h-auto transition-transform duration-300 hover:scale-110 m-0"/> </a>
 </span>
 </td> 
 <td>
 <span class="flex items-center justify-center border-2 border-solid border-blue-500 rounded-xl p-5 m-3 ">
-<a href="https://t.me/youzhidanbairu2333" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/baib-web/img/Telegram-icon-on-transparentbackground-PNG.png " width="100" height="auto" alt="图片" class=" w-100 h-auto transition-transform duration-300 hover:scale-110 m-0"/> </a>
+<a href="https://t.me/youzhidanbairu2333" target="_blank"> <img src="https://flowershow.youzhidanbairu.eu.org/assets/img/Telegram-icon-on-transparentbackground-PNG.png " width="100" height="auto" alt="图片" class=" w-100 h-auto transition-transform duration-300 hover:scale-110 m-0"/> </a>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<a href="https://qm.qq.com/q/9ah3A0lbpK" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/baib-web/img/qq-icon-256x256-gyghvfu1.png "  width="100" height="auto" alt="图片" class=" w-100 h-auto transition-transform duration-300 hover:scale-110 m-0"/> </a>
+<a href="https://qm.qq.com/q/9ah3A0lbpK" target="_blank"> <img src="https://flowershow.youzhidanbairu.eu.org/assets/img/qq-icon-256x256-gyghvfu1.png "  width="100" height="auto" alt="图片" class=" w-100 h-auto transition-transform duration-300 hover:scale-110 m-0"/> </a>
 </span>
 </td> 
 </tr> 
