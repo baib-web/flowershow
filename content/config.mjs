@@ -10,7 +10,7 @@ const config = {
   logo: "https://cdn.jsdelivr.net/gh/baib-web/img/FaceHoldingBackTears-ezgif.com-webp-to-gif-converter.gif",
   //导航页
   navbarTitle: {
-    logo: "https://cdn.jsdelivr.net/gh/baib-web/img/Blossom.png",
+    logo: "https://flowershow.youzhidanbairu.eu.org/assets/Blossom.png",
   },
   // 域名
   domain: "https://flowershow.youzhidanbairu.eu.org",
