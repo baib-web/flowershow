@@ -23,14 +23,14 @@ showComments: true
 <tr> 
 <td>
 <span class="flex items-center justify-center border-2 border-solid border-blue-500 rounded-xl p-5 m-3 ">
-<a href="https://flowershow.youzhidanbairu.eu.org/assets/img/%E4%B8%8B%E8%BD%BD.jpeg" target="_blank"> <img src="https://flowershow.youzhidanbairu.eu.org/assets/img/7572220.png" width="100" height="auto" alt="图片" class=" w-100 h-auto transition-transform duration-300 hover:scale-110 m-0"/> </a>
+<a href="https://flowershow.youzhidanbairu.cloudns.biz/assets/img/%E4%B8%8B%E8%BD%BD.jpeg" target="_blank"> <img src="https://flowershow.youzhidanbairu.cloudns.biz/assets/img/7572220.png" width="100" height="auto" alt="图片" class=" w-100 h-auto transition-transform duration-300 hover:scale-110 m-0"/> </a>
 </span>
 </td> 
 <td>
 <span class="flex items-center justify-center border-2 border-solid border-blue-500 rounded-xl p-5 m-3 ">
-<a href="https://t.me/youzhidanbairu2333" target="_blank"> <img src="https://flowershow.youzhidanbairu.eu.org/assets/img/Telegram-icon-on-transparentbackground-PNG.png " width="100" height="auto" alt="图片" class=" w-100 h-auto transition-transform duration-300 hover:scale-110 m-0"/> </a>
+<a href="https://t.me/youzhidanbairu2333" target="_blank"> <img src="https://flowershow.youzhidanbairu.cloudns.biz/assets/img/Telegram-icon-on-transparentbackground-PNG.png " width="100" height="auto" alt="图片" class=" w-100 h-auto transition-transform duration-300 hover:scale-110 m-0"/> </a>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<a href="https://qm.qq.com/q/9ah3A0lbpK" target="_blank"> <img src="https://flowershow.youzhidanbairu.eu.org/assets/img/qq-icon-256x256-gyghvfu1.png "  width="100" height="auto" alt="图片" class=" w-100 h-auto transition-transform duration-300 hover:scale-110 m-0"/> </a>
+<a href="https://qm.qq.com/q/9ah3A0lbpK" target="_blank"> <img src="https://flowershow.youzhidanbairu.cloudns.biz/assets/img/qq-icon-256x256-gyghvfu1.png "  width="100" height="auto" alt="图片" class=" w-100 h-auto transition-transform duration-300 hover:scale-110 m-0"/> </a>
 </span>
 </td> 
 </tr> 
@@ -41,17 +41,17 @@ showComments: true
     <summary class="expandable-button flex items-center justify-center">
       <h3>--- 查看目录 ---</h3>
     </summary>
-- <div class="flex items-center"> <img src="https://flowershow.youzhidanbairu.eu.org/assets/House.png" alt="House" width="25" height="25" class="m-0" /><a href="https://flowershow.youzhidanbairu.eu.org">主页</a> </div>
- <div class="flex items-center"> <img src="https://flowershow.youzhidanbairu.eu.org/assets/202408280008482.png" alt="Globe with Meridians" width="25" height="25" class="m-0"/>VPS 相关</div>
+- <div class="flex items-center"> <img src="https://flowershow.youzhidanbairu.cloudns.biz/assets/House.png" alt="House" width="25" height="25" class="m-0" /><a href="https://flowershow.youzhidanbairu.eu.org">主页</a> </div>
+ <div class="flex items-center"> <img src="https://flowershow.youzhidanbairu.cloudns.biz/assets/202408280008482.png" alt="Globe with Meridians" width="25" height="25" class="m-0"/>VPS 相关</div>
 - [[SSH客户端推荐]]
 - [[为终端提供可视界面的程序]]
-<div class="flex items-center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408280009012.png" alt="No One Under Eighteen" width="25" height="25" class="m-0"/>NSFW</div>
+<div class="flex items-center"><img src="https://flowershow.youzhidanbairu.cloudns.biz/assets/202408280009012.png" alt="No One Under Eighteen" width="25" height="25" class="m-0"/>NSFW</div>
 - [[E-hentai 各开源软件测评对比]]
 - [[Hentai主题软件分享]]
-<div class="flex items-center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408280009692.png" alt="File Folder" width="25" height="25" class="m-0"/>资源分享</div>
+<div class="flex items-center"><img src="https://flowershow.youzhidanbairu.cloudns.biz/assets/202408280009692.png" alt="File Folder" width="25" height="25" class="m-0"/>资源分享</div>
 - [[Chrome实用插件插件推荐]]
 - [[影视和阅读软件(持续更新)]]
-<div class="flex items-center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/202408280010965.png" alt="Wireless" width="25" height="25" class="m-0"/>科学上网</div>
+<div class="flex items-center"><img src="https://flowershow.youzhidanbairu.cloudns.biz/assets/202408280010965.png" alt="Wireless" width="25" height="25" class="m-0"/>科学上网</div>
 - [[订阅格式及使用]]
 - [[翻墙服务端教程]]
 - [[翻墙客户端推荐（持续更新）]]
@@ -59,7 +59,7 @@ showComments: true
 - [[谷歌商店及替代方案]]
 - [[区分翻墙的专业词汇]]
 - [[自搭节点分享]]
-<div class="flex items-center"><img src="https://flowershow.youzhidanbairu.eu.org/assets/Compass.png" alt="Compass" width="25" height="25" class="m-0"/>参照</div>
+<div class="flex items-center"><img src="https://flowershow.youzhidanbairu.cloudns.biz/assets/Compass.png" alt="Compass" width="25" height="25" class="m-0"/>参照</div>
 - [[CSS]]
 - [[mermaid 图]]
 - [[图标]]
