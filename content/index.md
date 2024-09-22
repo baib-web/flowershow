@@ -5,7 +5,7 @@ showComments: true
 ---
 # <center>这里是我的博客主页</center>
 
-![](https://telegraph.youzhidanbairu.eu.org/file/8d040e6910ac064fb92dd.jpg)
+![](https://telegraph.youzhidanbairu.cloudns.biz/file/8d040e6910ac064fb92dd.jpg)
 > [!quote]  一个人的行走范围，就是他的世界。——北岛 
 
 ---
