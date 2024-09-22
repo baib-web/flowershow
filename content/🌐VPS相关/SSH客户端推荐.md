@@ -1,5 +1,5 @@
 # <center>SSH客户端推荐</center>
-![31f22560f219f20eabfc2f4ddea4a819_MD5](https://flowershow.youzhidanbairu.eu.org/assets/img/31f22560f219f20eabfc2f4ddea4a819_MD5.png)
+![31f22560f219f20eabfc2f4ddea4a819_MD5](https://flowershow.youzhidanbairu.cloudns.biz/assets/img/31f22560f219f20eabfc2f4ddea4a819_MD5.png)
 >[!quote] ✨如果自由的代价是生死一瞬的感悟，那我绝不退缩 ——V字仇杀队✨
 
 ---
@@ -7,11 +7,11 @@
 现代软件开发和系统管理工作中，安全地远程访问服务器是必不可少的。SSH（Secure Shell）协议作为一种安全可靠的通信协议，成为了远程管理服务器的首选。为了更好地利用SSH，选择一款优秀的SSH客户端至关重要。本文将推荐几款常用的SSH客户端，并分析其优缺点，帮助您找到最适合自己的工具。
 
 # 🌍Termius 
-![image.png](https://flowershow.youzhidanbairu.eu.org/assets/img/20240723122246.png)
+![image.png](https://flowershow.youzhidanbairu.cloudns.biz/assets/img/20240723122246.png)
 
 **截图：**
-![](https://flowershow.youzhidanbairu.eu.org/assets/img/649a7bc1a4e8e8bd2f1de718_macos%20laptop.png)
-![image.png](https://flowershow.youzhidanbairu.eu.org/assets/img/20240723122142.png)
+![](https://flowershow.youzhidanbairu.cloudns.biz/assets/img/649a7bc1a4e8e8bd2f1de718_macos%20laptop.png)
+![image.png](https://flowershow.youzhidanbairu.cloudns.biz/assets/img/20240723122142.png)
 	
 **平台：** Windows, macOS, Linux, iOS, Android
 
@@ -26,10 +26,10 @@
 **资源：**
 - [网站](https://termius.com/) - [GitHub](https://github.com/termius/termius)
 # 🌍FinalShell
-![image.png](https://flowershow.youzhidanbairu.eu.org/assets/img/20240723120247.png)
+![image.png](https://flowershow.youzhidanbairu.cloudns.biz/assets/img/20240723120247.png)
 
 **截图：**
-![image.png](https://flowershow.youzhidanbairu.eu.org/assets/img/20240723120405.png)
+![image.png](https://flowershow.youzhidanbairu.cloudns.biz/assets/img/20240723120405.png)
 
 **平台：** Windows, macOS, Linux
 
@@ -47,10 +47,10 @@
 **资源：**
 [官网](https://www.hostbuf.com/)
 # 🌍WindTerm
-![image.png](https://flowershow.youzhidanbairu.eu.org/assets/img/20240723120512.png)
+![image.png](https://flowershow.youzhidanbairu.cloudns.biz/assets/img/20240723120512.png)
 
 **截图：**
-![image.png](https://flowershow.youzhidanbairu.eu.org/assets/img/20240723120638.png)
+![image.png](https://flowershow.youzhidanbairu.cloudns.biz/assets/img/20240723120638.png)
 
 **平台：** Windows
 
@@ -68,10 +68,10 @@
 **资源：**
 - [网站](https://windterm.org/) - [GitHub](https://github.com/kingToolbox/WindTerm)
 # 🌍ServerCat
-![image.png](https://flowershow.youzhidanbairu.eu.org/assets/img/20240723120825.png)
+![image.png](https://flowershow.youzhidanbairu.cloudns.biz/assets/img/20240723120825.png)
 
 **截图：**
-![image.png](https://flowershow.youzhidanbairu.eu.org/assets/img/20240723120748.png)
+![image.png](https://flowershow.youzhidanbairu.cloudns.biz/assets/img/20240723120748.png)
 
 **平台：** Windows, macOS, Linux
 
@@ -89,10 +89,10 @@
 **资源：**
 - [网站](https://www.servercat.com/)
 # 🌍Hyper
-![image.png](https://flowershow.youzhidanbairu.eu.org/assets/img/20240723121003.png)
+![image.png](https://flowershow.youzhidanbairu.cloudns.biz/assets/img/20240723121003.png)
 
 **截图：**
-![image.png](https://flowershow.youzhidanbairu.eu.org/assets/img/20240723121056.png)
+![image.png](https://flowershow.youzhidanbairu.cloudns.biz/assets/img/20240723121056.png)
 
 **平台：** Windows, macOS, Linux
 
@@ -110,10 +110,10 @@
 **资源：**
 - [网站](https://hyper.is/) - [GitHub](https://github.com/zeit/hyper)
 # 🌍安全外壳(SSH)(浏览器插件)
-![image.png](https://flowershow.youzhidanbairu.eu.org/assets/img/20240723121445.png)
+![image.png](https://flowershow.youzhidanbairu.cloudns.biz/assets/img/20240723121445.png)
 
 **截图：**
-![image.png](https://flowershow.youzhidanbairu.eu.org/assets/img/20240723121351.png)
+![image.png](https://flowershow.youzhidanbairu.cloudns.biz/assets/img/20240723121351.png)
 
 **平台：** 浏览器（Chrome、Firefox 等）
 
@@ -131,10 +131,10 @@
 资源
 [谷歌插件市场](https://chromewebstore.google.com/detail/%E5%AE%89%E5%85%A8%E5%A4%96%E5%A3%B3-ssh/iodihamcpbpeioajjeobimgagajmlibd?hl=zh-CN&utm_source=ext_sidebar) 
 # 🌍NextSSH
-![](https://flowershow.youzhidanbairu.eu.org/assets/img/aea765e2698749b78c7167994a7843dc.png)
+![](https://flowershow.youzhidanbairu.cloudns.biz/assets/img/aea765e2698749b78c7167994a7843dc.png)
 
 **截图：**
-![image.png](https://flowershow.youzhidanbairu.eu.org/assets/img/20240723121717.png)
+![image.png](https://flowershow.youzhidanbairu.cloudns.biz/assets/img/20240723121717.png)
 
 **平台：** Windows, macOS, Linux
 
