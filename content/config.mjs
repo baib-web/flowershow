@@ -13,7 +13,7 @@ const config = {
     logo: "https://flowershow.youzhidanbairu.cloudns.biz/assets/Blossom.png",
   },
   // 域名
-  domain: "https://flowershow.youzhidanbairu.eu.org",
+  domain: "https://flowershow.youzhidanbairu.cloudns.biz",
   //公开编辑链接
   editLinkRoot:
     "https://github.com/baib-web/flowershow/tree/main",
@@ -62,12 +62,12 @@ const config = {
     titleTemplate: "%s | Flowershow",
     description:
       "技术分享和日常唠嗑",
-    canonical: "https://flowershow.youzhidanbairu.eu.org",
+    canonical: "https://flowershow.youzhidanbairu.cloudns.biz",
     openGraph: {
       title: "Baib的数字花园",
       images: [
         {
-          url: "https://cdn.jsdelivr.net/gh/baib-web/img/anime%20irl.jpg",
+          url: "https://gcore.jsdelivr.net/gh/baib-web/img/anime%20irl.jpg",
           alt: "Flowershow",
           width: 735,
           height: 621,
