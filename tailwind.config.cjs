@@ -13,6 +13,10 @@ module.exports = {
   darkMode: "class",
   theme: {
     extend: {
+      //质感向内阴影
+      boxShadow: {
+        'inner-custom': 'inset 0 2px 4px rgba(0, 0, 0, 0.1)',
+      }
       //固定高度和自适应宽度
       height: {
         '350px': '350px',
