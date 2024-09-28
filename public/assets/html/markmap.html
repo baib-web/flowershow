@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Markmap</title>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+}
+#mindmap {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+}
+</style>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.17.2/dist/style.css">
+</head>
+<body>
+<svg id="mindmap"></svg>
+<script src="https://cdn.jsdelivr.net/npm/d3@7.8.5/dist/d3.min.js"></script><script src="https://cdn.jsdelivr.net/npm/markmap-view@0.17.2/dist/browser/index.js"></script><script src="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.17.2/dist/index.js"></script><script>(r => {
+                setTimeout(r);
+              })(() => {
+  const {
+    markmap,
+    mm
+  } = window;
+  const {
+    el
+  } = markmap.Toolbar.create(mm);
+  el.setAttribute('style', 'position:absolute;bottom:20px;right:20px');
+  document.body.append(el);
+})</script><script>((getMarkmap, getOptions, root2, jsonOptions) => {
+              const markmap = getMarkmap();
+              window.mm = markmap.Markmap.create(
+                "svg#mindmap",
+                (getOptions || markmap.deriveOptions)(jsonOptions),
+                root2
+              );
+            })(() => window.markmap,null,{"content":"翻墙协议","children":[{"content":"加密协议","children":[{"content":"SSL/TLS","children":[],"payload":{"lines":"3,4"}},{"content":"SSTP","children":[],"payload":{"lines":"4,5"}},{"content":"MPTCP","children":[],"payload":{"lines":"5,6"}},{"content":"ChaCha20","children":[],"payload":{"lines":"6,7"}},{"content":"AES-GCM","children":[],"payload":{"lines":"7,8"}}],"payload":{"lines":"2,3"}},{"content":"传输协议","children":[{"content":"TCP","children":[],"payload":{"lines":"10,11"}},{"content":"UDP","children":[],"payload":{"lines":"11,12"}},{"content":"HTTP/HTTPS","children":[],"payload":{"lines":"12,13"}},{"content":"QUIC","children":[],"payload":{"lines":"13,14"}},{"content":"TUIC","children":[],"payload":{"lines":"14,15"}},{"content":"WebSocket","children":[],"payload":{"lines":"15,16"}},{"content":"L2TP/IPsec","children":[],"payload":{"lines":"16,17"}}],"payload":{"lines":"9,10"}},{"content":"代理协议","children":[{"content":"SOCKS5","children":[],"payload":{"lines":"19,20"}},{"content":"HTTP","children":[],"payload":{"lines":"20,21"}},{"content":"具备混淆能力","children":[{"content":"Trojan","children":[],"payload":{"lines":"22,23"}},{"content":"ShadowsocksR","children":[],"payload":{"lines":"23,24"}},{"content":"Shadowsocks","children":[],"payload":{"lines":"24,25"}},{"content":"VMess","children":[],"payload":{"lines":"25,26"}},{"content":"Vless","children":[],"payload":{"lines":"26,27"}},{"content":"Obfsproxy","children":[],"payload":{"lines":"27,28"}},{"content":"obfs4","children":[],"payload":{"lines":"28,29"}},{"content":"meek","children":[],"payload":{"lines":"29,30"}},{"content":"Reality","children":[],"payload":{"lines":"30,31"}},{"content":"Hysteria","children":[],"payload":{"lines":"31,32"}},{"content":"Hysteria2","children":[],"payload":{"lines":"32,33"}}],"payload":{"lines":"21,22"}}],"payload":{"lines":"18,19"}},{"content":"隧道协议","children":[{"content":"OpenVPN","children":[],"payload":{"lines":"35,36"}},{"content":"PPTP","children":[],"payload":{"lines":"36,37"}},{"content":"L2TP","children":[],"payload":{"lines":"37,38"}}],"payload":{"lines":"34,35"}},{"content":"集成隧道和加密的协议","children":[{"content":"WireGuard","children":[],"payload":{"lines":"40,41"}},{"content":"SSH","children":[],"payload":{"lines":"41,42"}},{"content":"IKEv2/IPsec","children":[],"payload":{"lines":"42,43"}}],"payload":{"lines":"39,40"}}],"payload":{"lines":"0,1"}},{})</script>
+</body>
+</html>
